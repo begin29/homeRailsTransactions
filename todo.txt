@@ -1,0 +1,12 @@
+TODO
+
+A=========
+  fix ember initialization
+  ability add/remove transactions
+
+B=========
+  add model Tag
+  CRUD for Tag
+
+C=========
+  add simple UI
