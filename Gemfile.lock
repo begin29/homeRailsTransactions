@@ -10,6 +10,8 @@ GEM
       erubis (~> 2.7.0)
       rack (~> 1.5.2)
       rack-test (~> 0.6.2)
+    active_model_serializers (0.9.3)
+      activemodel (>= 3.2)
     activemodel (4.0.1)
       activesupport (= 4.0.1)
       builder (~> 3.1.0)
@@ -26,6 +28,9 @@ GEM
       thread_safe (~> 0.1)
       tzinfo (~> 0.3.37)
     arel (4.0.2)
+    barber (0.9.0)
+      ember-source (>= 1.0, < 2)
+      execjs (>= 1.2, < 3)
     builder (3.1.4)
     coffee-rails (4.0.1)
       coffee-script (>= 2.2.0)
@@ -34,8 +39,23 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.9.1.1)
+    ember-data-source (1.0.0.beta.16.1)
+      ember-source (~> 1.8)
+    ember-handlebars-template (0.1.5)
+      barber (>= 0.9.0)
+      sprockets (>= 2.1, < 3.1)
+    ember-rails (0.18.2)
+      active_model_serializers
+      ember-data-source (>= 1.0.0.beta.5)
+      ember-handlebars-template (>= 0.1.1, < 1.0)
+      ember-source (>= 1.1.0)
+      jquery-rails (>= 1.0.17)
+      railties (>= 3.1)
+    ember-source (1.9.1)
+      handlebars-source (~> 2.0)
     erubis (2.7.0)
     execjs (2.5.2)
+    handlebars-source (2.0.0)
     hike (1.2.3)
     i18n (0.7.0)
     jbuilder (1.5.3)
@@ -95,8 +115,6 @@ GEM
     treetop (1.4.15)
       polyglot
       polyglot (>= 0.3.1)
-    turbolinks (2.5.3)
-      coffee-rails
     tzinfo (0.3.44)
     uglifier (2.7.1)
       execjs (>= 0.3.0)
@@ -107,11 +125,11 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 4.0.0)
+  ember-rails
   jbuilder (~> 1.2)
   jquery-rails
   rails (= 4.0.1)
   sass-rails (~> 4.0.0)
   sdoc
   sqlite3
-  turbolinks
   uglifier (>= 1.3.0)
