@@ -1,7 +1,6 @@
 TODO
 
 A=========
-  fix ember initialization
   ability add/remove transactions
 
 B=========
