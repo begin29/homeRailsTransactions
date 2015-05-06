@@ -9,6 +9,10 @@ class Api::V1::TransactionsController < ApplicationController
     respond_with Transaction.find(params[:id])
   end
 
+  def edit
+    respond_with Transaction.find(params[:id])
+  end
+
   private
 
   def transaction_params

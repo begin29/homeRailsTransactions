@@ -2,10 +2,12 @@ TODO
 
 A=========
   ability add/remove transactions
+	edit ability * in_progress
 
 B=========
   add model Tag
   CRUD for Tag
 
 C=========
+  move template files to folders
   add simple UI
