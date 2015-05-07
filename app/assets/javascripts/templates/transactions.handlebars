@@ -1,4 +1,8 @@
 <h1>Transactions...</h1>
+<div>
+  {{#link-to 'transactions.new'}}<button title="new">New</button>{{/link-to}}
+</div>
+
 {{#each transaction in controller}}
   {{render "transaction" transaction}}
 {{/each}}
