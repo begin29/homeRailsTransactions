@@ -1,9 +1,9 @@
 HomeTransactions::Application.routes.draw do
-  root to: 'home#index'
+  root to: 'transactions#index'
 
   namespace :api do
     namespace :v1 do
-      resources :transactions, only: [:index, :show]
+      resources :transactions
     end
   end
   # The priority is based upon order of creation: first created -> highest priority.

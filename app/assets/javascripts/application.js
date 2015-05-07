@@ -20,6 +20,7 @@
 //= require app
 
 // for more details see: http://emberjs.com/guides/application/
-App = Ember.Application.create();
+// To have Ember write out transition events to the log
+App = Ember.Application.create( {LOG_TRANSITIONS: true} );
 
 //= require_tree .
