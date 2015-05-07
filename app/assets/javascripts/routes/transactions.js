@@ -3,3 +3,9 @@ App.TransactionsRoute = Ember.Route.extend({
     return this.store.findAll('transaction');
   }
 });
+
+App.IndexRoute = Ember.Route.extend({
+  redirect: function() {
+    this.transitionTo('transactions');
+  }
+});

@@ -6,3 +6,7 @@ App.Router.map(function() {
     this.route('create');
   });
 });
+
+App.HomeRoute = Ember.Route.extend({
+  //the application template will automatically go in here
+});
