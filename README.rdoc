@@ -10,12 +10,52 @@
 
   Клік -> видалення елемента -> Router
 
+    Touch events:
+      touchStart
+      touchMove
+      touchEnd
+      touchCancel
+      Keyboard events
+
+      keyDown
+      keyUp
+      keyPress
+      Mouse events
+
+      mouseDown
+      mouseUp
+      contextMenu
+      click
+      doubleClick
+      mouseMove
+      focusIn
+      focusOut
+      mouseEnter
+      mouseLeave
+      Form events:
+
+      submit
+      change
+      focusIn
+      focusOut
+      input
+      HTML5 drag and drop events:
+
+      dragStart
+      drag
+      dragEnter
+      dragLeave
+      dragOver
+      dragEnd
+      drop
+
 #Controller - proxy for model properties controller gets the model it represents from its route handler.
    Controllers will have properties that your app does not need to save to the server.
   - information only for the lifetime of this application run, you should store it on a controller
   - all of template properties come from controller, and it doesn't need to know about the model directly.
 
   Template ------>(get properties from) Controller ------->(decorates a) Model
+  actions: - actions for buttons
 
 ##ObjectController. To represent a single model.
 
