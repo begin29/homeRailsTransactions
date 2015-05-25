@@ -20,6 +20,32 @@
 //= require app
 
 // for more details see: http://emberjs.com/guides/application/
-App = Ember.Application.create();
+App = Ember.Application.create({
+  // more detailed information here http://guides.emberjs.com/v1.10.0/understanding-ember/debugging/
+
+  // routes
+  LOG_TRANSITIONS: true,
+
+  // Extremely detailed logging, highlighting every internal
+  // step made while transitioning into a route, including
+  // `beforeModel`, `model`, and `afterModel` hooks, and
+  // information about redirects and aborted transitions
+
+  // LOG_TRANSITIONS_INTERNAL: true
+
+  // views logs
+  LOG_VIEW_LOOKUPS: true
+    // check template inside console
+    // Ember.TEMPLATES['transactions/create']
+
+  // {{debugger}}
+  // {{log record}}
+
+  // controllers
+  // LOG_ACTIVE_GENERATION: true,
+
+  // bindings
+  // LOG_BINDINGS: true
+});
 
 //= require_tree .

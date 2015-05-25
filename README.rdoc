@@ -1,28 +1,76 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#Requirements
+  * sudo apt-get install nodejs
 
-Things you may want to cover:
+#View
+  - обробка користувацьких подій
+  - створення re-usable компонентів
+  - combining templates with data to render as sections of a page's DOM
 
-* Ruby version
+  Клік -> видалення елемента -> Router
 
-* System dependencies
+    Touch events:
+      touchStart
+      touchMove
+      touchEnd
+      touchCancel
+      Keyboard events
 
-* Configuration
+      keyDown
+      keyUp
+      keyPress
+      Mouse events
 
-* Database creation
+      mouseDown
+      mouseUp
+      contextMenu
+      click
+      doubleClick
+      mouseMove
+      focusIn
+      focusOut
+      mouseEnter
+      mouseLeave
+      Form events:
 
-* Database initialization
+      submit
+      change
+      focusIn
+      focusOut
+      input
+      HTML5 drag and drop events:
 
-* How to run the test suite
+      dragStart
+      drag
+      dragEnter
+      dragLeave
+      dragOver
+      dragEnd
+      drop
 
-* Services (job queues, cache servers, search engines, etc.)
+#Controller - proxy for model properties controller gets the model it represents from its route handler.
+   Controllers will have properties that your app does not need to save to the server.
+  - information only for the lifetime of this application run, you should store it on a controller
+  - all of template properties come from controller, and it doesn't need to know about the model directly.
 
-* Deployment instructions
+  Template ------>(get properties from) Controller ------->(decorates a) Model
+  actions: - actions for buttons
 
-* ...
+##ObjectController. To represent a single model.
 
+##Ember.ArrayController. To represent an array of models.
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+#Router
+  When the current URL changes, the newly active route handlers may do one or more of the following:
+    Conditionally redirect to a new URL.
+    Update a controller so that it represents a particular model.
+    Change the template on screen, or place a new template into an existing outlet.
+
+  One of the responsibilities of a resource's route handler is to convert a URL into a model.
+
+  App.PostsRoute = Ember.Route.extend({
+    model: function() {
+      return this.store.find('post');
+    }
+  });
