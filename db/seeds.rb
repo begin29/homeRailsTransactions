@@ -5,3 +5,13 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+# outcome
+{food: 50, drink:20, phone: 300}.each do |k,v|
+  Transaction.create(description: k, price: v)
+end
+
+# income
+{salary: 1000, lotery:25, found: 10}.each do |k,v|
+  Transaction.create(description: k, price: v, is_income: true)
+end
