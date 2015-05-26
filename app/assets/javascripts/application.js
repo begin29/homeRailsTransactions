@@ -12,40 +12,36 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require handlebars
-//= require ember-template-compiler
-//= require ember
-//= require ember-data
 //= require_self
-//= require app
 
+// old ember initialize
 // for more details see: http://emberjs.com/guides/application/
-App = Ember.Application.create({
-  // more detailed information here http://guides.emberjs.com/v1.10.0/understanding-ember/debugging/
+// App = Ember.Application.create({
+//   // more detailed information here http://guides.emberjs.com/v1.10.0/understanding-ember/debugging/
 
-  // routes
-  LOG_TRANSITIONS: true,
+//   // routes
+//   LOG_TRANSITIONS: true,
 
-  // Extremely detailed logging, highlighting every internal
-  // step made while transitioning into a route, including
-  // `beforeModel`, `model`, and `afterModel` hooks, and
-  // information about redirects and aborted transitions
+//   // Extremely detailed logging, highlighting every internal
+//   // step made while transitioning into a route, including
+//   // `beforeModel`, `model`, and `afterModel` hooks, and
+//   // information about redirects and aborted transitions
 
-  // LOG_TRANSITIONS_INTERNAL: true
+//   // LOG_TRANSITIONS_INTERNAL: true
 
-  // views logs
-  LOG_VIEW_LOOKUPS: true
-    // check template inside console
-    // Ember.TEMPLATES['transactions/create']
+//   // views logs
+//   LOG_VIEW_LOOKUPS: true
+//     // check template inside console
+//     // Ember.TEMPLATES['transactions/create']
 
-  // {{debugger}}
-  // {{log record}}
+//   // {{debugger}}
+//   // {{log record}}
 
-  // controllers
-  // LOG_ACTIVE_GENERATION: true,
+//   // controllers
+//   // LOG_ACTIVE_GENERATION: true,
 
-  // bindings
-  // LOG_BINDINGS: true
-});
+//   // bindings
+//   // LOG_BINDINGS: true
+// });
 
 //= require_tree .
