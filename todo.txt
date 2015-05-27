@@ -1,13 +1,12 @@
-TODO
+TODO homeRailsTransactions
 
 A=========
-  ability add/remove transactions
-	edit ability * in_progress
+  generate model/route
+  ability add/remove/edit transactions
 
 B=========
   add model Tag
   CRUD for Tag
 
 C=========
-  move template files to folders
   add simple UI
