@@ -1,9 +1,9 @@
 HomeTransactions::Application.routes.draw do
   root to: 'application#index'
 
-  namespace :api do
+  namespace :api, defaults: {format: 'json'} do
     namespace :v1 do
-      resources :transactions, only: [:index, :show]
+      resources :money_transactions
     end
   end
   # The priority is based upon order of creation: first created -> highest priority.

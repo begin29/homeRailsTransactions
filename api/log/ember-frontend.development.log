@@ -13921,3 +13921,4722 @@ Concat: Vendor (1)                            | 2293ms
 Babel (2)                                     | 653ms (326 ms)      
 ConfigLoader (1)                              | 278ms               
 
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...
+
+Build successful - 2567ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1944ms              
+Babel                                         | 152ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1944ms              
+Babel (2)                                     | 193ms (96 ms)       
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...
+
+Build successful - 2480ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1882ms              
+Babel                                         | 147ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1882ms              
+Babel (2)                                     | 193ms (96 ms)       
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...
+
+Build successful - 2536ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1939ms              
+Babel                                         | 156ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1939ms              
+Babel (2)                                     | 202ms (101 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...
+
+Build successful - 2506ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1948ms              
+Babel                                         | 162ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1948ms              
+Babel (2)                                     | 200ms (100 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...
+
+Build successful - 2570ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1999ms              
+Babel                                         | 158ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1999ms              
+Babel (2)                                     | 198ms (99 ms)       
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+router.js: line 12, col 1, 'App' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2477ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1854ms              
+Babel                                         | 168ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1854ms              
+Babel (2)                                     | 215ms (107 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+router.js: line 12, col 1, 'App' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2587ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1983ms              
+Babel                                         | 153ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1983ms              
+Babel (2)                                     | 199ms (99 ms)       
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+router.js: line 12, col 1, 'App' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2533ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1928ms              
+Babel                                         | 154ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1928ms              
+Babel (2)                                     | 198ms (99 ms)       
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+router.js: line 13, col 1, 'IndexRoute' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2586ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1975ms              
+Babel                                         | 169ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1975ms              
+Babel (2)                                     | 213ms (106 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+router.js: line 13, col 1, 'IndexRoute' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2559ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1956ms              
+Babel                                         | 150ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1956ms              
+Babel (2)                                     | 197ms (98 ms)       
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+router.js: line 13, col 1, 'IndexRoute' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2605ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1999ms              
+Babel                                         | 165ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1999ms              
+Babel (2)                                     | 210ms (105 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...
+
+Build successful - 2528ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1932ms              
+Babel                                         | 145ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1932ms              
+Babel (2)                                     | 189ms (94 ms)       
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...
+
+Build successful - 2565ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1977ms              
+Babel                                         | 147ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1977ms              
+Babel (2)                                     | 196ms (98 ms)       
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...
+
+Build successful - 2600ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1974ms              
+Babel                                         | 154ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1974ms              
+Babel (2)                                     | 208ms (104 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...Building...
+File: client/router
+Duplicate default exports
+Error: Duplicate default exports
+    at /home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/broccoli-es6modules/node_modules/esperanto/dist/esperanto.js:314:11
+    at Array.forEach (native)
+    at findImportsAndExports (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/broccoli-es6modules/node_modules/esperanto/dist/esperanto.js:293:11)
+    at getStandaloneModule (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/broccoli-es6modules/node_modules/esperanto/dist/esperanto.js:633:27)
+    at Class.toFormat (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/broccoli-es6modules/node_modules/esperanto/dist/esperanto.js:2660:13)
+    at Class.module.exports.CachingWriter.extend._transpileThroughCache (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/broccoli-es6modules/index.js:232:22)
+    at Class.module.exports.CachingWriter.extend._handleFile (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/broccoli-es6modules/index.js:204:22)
+    at Class.<anonymous> (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/broccoli-es6modules/index.js:186:16)
+    at Array.forEach (native)
+    at Class.module.exports.CachingWriter.extend._updateEachFile (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/broccoli-es6modules/index.js:184:8)
+File: client/router
+Duplicate default exports
+Error: Duplicate default exports
+    at /home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/broccoli-es6modules/node_modules/esperanto/dist/esperanto.js:314:11
+    at Array.forEach (native)
+    at findImportsAndExports (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/broccoli-es6modules/node_modules/esperanto/dist/esperanto.js:293:11)
+    at getStandaloneModule (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/broccoli-es6modules/node_modules/esperanto/dist/esperanto.js:633:27)
+    at Class.toFormat (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/broccoli-es6modules/node_modules/esperanto/dist/esperanto.js:2660:13)
+    at Class.module.exports.CachingWriter.extend._transpileThroughCache (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/broccoli-es6modules/index.js:232:22)
+    at Class.module.exports.CachingWriter.extend._handleFile (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/broccoli-es6modules/index.js:204:22)
+    at Class.<anonymous> (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/broccoli-es6modules/index.js:186:16)
+    at Array.forEach (native)
+    at Class.module.exports.CachingWriter.extend._updateEachFile (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/broccoli-es6modules/index.js:184:8)
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building...
+File: client/router.js
+client/router.js: Unexpected token (19:25)
+SyntaxError: client/router.js: Unexpected token (19:25)
+  17 | });
+  18 | 
+> 19 | export default IndexRoute, Router;
+     |                          ^
+  20 | 
+    at Parser.pp.raise (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/location.js:73:13)
+    at Parser.pp.unexpected (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/parseutil.js:87:8)
+    at Parser.pp.semicolon (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/parseutil.js:66:73)
+    at Parser.pp.parseExport (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/statement.js:612:25)
+    at Parser.pp.parseStatement (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/statement.js:102:85)
+    at Parser.pp.parseTopLevel (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/statement.js:22:21)
+    at Object.parse (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/index.js:106:12)
+    at exports.default (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/babel/helpers/parse.js:47:19)
+    at File.parse (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/babel/transformation/file/index.js:533:46)
+    at File.addCode (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/babel/transformation/file/index.js:615:24)
+File: client/router.js
+client/router.js: Unexpected token (19:25)
+SyntaxError: client/router.js: Unexpected token (19:25)
+  17 | });
+  18 | 
+> 19 | export default IndexRoute, Router;
+     |                          ^
+  20 | 
+    at Parser.pp.raise (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/location.js:73:13)
+    at Parser.pp.unexpected (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/parseutil.js:87:8)
+    at Parser.pp.semicolon (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/parseutil.js:66:73)
+    at Parser.pp.parseExport (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/statement.js:612:25)
+    at Parser.pp.parseStatement (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/statement.js:102:85)
+    at Parser.pp.parseTopLevel (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/statement.js:22:21)
+    at Object.parse (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/index.js:106:12)
+    at exports.default (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/babel/helpers/parse.js:47:19)
+    at File.parse (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/babel/transformation/file/index.js:533:46)
+    at File.addCode (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/babel/transformation/file/index.js:615:24)
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building...
+File: client/router.js
+client/router.js: Unexpected token (19:25)
+SyntaxError: client/router.js: Unexpected token (19:25)
+  17 | });
+  18 | 
+> 19 | export default IndexRoute, Router;
+     |                          ^
+  20 | 
+    at Parser.pp.raise (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/location.js:73:13)
+    at Parser.pp.unexpected (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/parseutil.js:87:8)
+    at Parser.pp.semicolon (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/parseutil.js:66:73)
+    at Parser.pp.parseExport (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/statement.js:612:25)
+    at Parser.pp.parseStatement (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/statement.js:102:85)
+    at Parser.pp.parseTopLevel (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/statement.js:22:21)
+    at Object.parse (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/index.js:106:12)
+    at exports.default (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/babel/helpers/parse.js:47:19)
+    at File.parse (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/babel/transformation/file/index.js:533:46)
+    at File.addCode (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/babel/transformation/file/index.js:615:24)
+File: client/router.js
+client/router.js: Unexpected token (19:25)
+SyntaxError: client/router.js: Unexpected token (19:25)
+  17 | });
+  18 | 
+> 19 | export default IndexRoute, Router;
+     |                          ^
+  20 | 
+    at Parser.pp.raise (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/location.js:73:13)
+    at Parser.pp.unexpected (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/parseutil.js:87:8)
+    at Parser.pp.semicolon (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/parseutil.js:66:73)
+    at Parser.pp.parseExport (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/statement.js:612:25)
+    at Parser.pp.parseStatement (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/statement.js:102:85)
+    at Parser.pp.parseTopLevel (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/statement.js:22:21)
+    at Object.parse (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/index.js:106:12)
+    at exports.default (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/babel/helpers/parse.js:47:19)
+    at File.parse (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/babel/transformation/file/index.js:533:46)
+    at File.addCode (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/babel/transformation/file/index.js:615:24)
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+router.js: line 13, col 5, 'IndexRoute' is defined but never used.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2498ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1860ms              
+Babel                                         | 155ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1860ms              
+Babel (2)                                     | 203ms (101 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+router.js: line 13, col 5, 'IndexRoute' is defined but never used.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2619ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1992ms              
+Babel                                         | 169ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1992ms              
+Babel (2)                                     | 215ms (107 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+router.js: line 13, col 5, 'IndexRoute' is defined but never used.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2924ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2029ms              
+Babel                                         | 227ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2029ms              
+Babel (2)                                     | 302ms (151 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building...
+File: client/router.js
+client/router.js: Unexpected token (19:25)
+SyntaxError: client/router.js: Unexpected token (19:25)
+  17 | });
+  18 | 
+> 19 | export default IndexRoute, Router;
+     |                          ^
+  20 | 
+    at Parser.pp.raise (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/location.js:73:13)
+    at Parser.pp.unexpected (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/parseutil.js:87:8)
+    at Parser.pp.semicolon (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/parseutil.js:66:73)
+    at Parser.pp.parseExport (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/statement.js:612:25)
+    at Parser.pp.parseStatement (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/statement.js:102:85)
+    at Parser.pp.parseTopLevel (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/statement.js:22:21)
+    at Object.parse (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/index.js:106:12)
+    at exports.default (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/babel/helpers/parse.js:47:19)
+    at File.parse (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/babel/transformation/file/index.js:533:46)
+    at File.addCode (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/babel/transformation/file/index.js:615:24)
+File: client/router.js
+client/router.js: Unexpected token (19:25)
+SyntaxError: client/router.js: Unexpected token (19:25)
+  17 | });
+  18 | 
+> 19 | export default IndexRoute, Router;
+     |                          ^
+  20 | 
+    at Parser.pp.raise (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/location.js:73:13)
+    at Parser.pp.unexpected (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/parseutil.js:87:8)
+    at Parser.pp.semicolon (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/parseutil.js:66:73)
+    at Parser.pp.parseExport (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/statement.js:612:25)
+    at Parser.pp.parseStatement (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/statement.js:102:85)
+    at Parser.pp.parseTopLevel (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/statement.js:22:21)
+    at Object.parse (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/index.js:106:12)
+    at exports.default (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/babel/helpers/parse.js:47:19)
+    at File.parse (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/babel/transformation/file/index.js:533:46)
+    at File.addCode (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/babel/transformation/file/index.js:615:24)
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2554ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1902ms              
+Babel                                         | 173ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1902ms              
+Babel (2)                                     | 217ms (108 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2491ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1883ms              
+Babel                                         | 171ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1883ms              
+Babel (2)                                     | 214ms (107 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2565ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1963ms              
+Babel                                         | 145ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1963ms              
+Babel (2)                                     | 187ms (93 ms)       
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2555ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1944ms              
+Babel                                         | 146ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1944ms              
+Babel (2)                                     | 184ms (92 ms)       
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2673ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2042ms              
+Babel                                         | 165ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2042ms              
+Babel (2)                                     | 205ms (102 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2469ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1923ms              
+Babel                                         | 135ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1923ms              
+Babel (2)                                     | 177ms (88 ms)       
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2860ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2073ms              
+Babel                                         | 186ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2073ms              
+Babel (2)                                     | 251ms (125 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2925ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2103ms              
+Babel                                         | 194ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2103ms              
+Babel (2)                                     | 262ms (131 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2465ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1872ms              
+Babel                                         | 165ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1872ms              
+Babel (2)                                     | 205ms (102 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2631ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2020ms              
+Babel                                         | 151ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2020ms              
+Babel (2)                                     | 199ms (99 ms)       
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2497ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1867ms              
+Babel                                         | 169ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1867ms              
+Babel (2)                                     | 218ms (109 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2625ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1902ms              
+Babel                                         | 159ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1902ms              
+Babel (2)                                     | 205ms (102 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2603ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2011ms              
+Babel                                         | 156ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2011ms              
+Babel (2)                                     | 205ms (102 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2516ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1878ms              
+Babel                                         | 144ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1878ms              
+Babel (2)                                     | 191ms (95 ms)       
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2505ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1908ms              
+Babel                                         | 171ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1908ms              
+Babel (2)                                     | 211ms (105 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2763ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2031ms              
+Babel                                         | 177ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2031ms              
+Babel (2)                                     | 225ms (112 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 3001ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2072ms              
+TreeMerger (appAndDependencies)               | 216ms               
+Babel                                         | 170ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2072ms              
+Babel (2)                                     | 216ms (108 ms)      
+TreeMerger (appAndDependencies) (1)           | 216ms               
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2661ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2043ms              
+Babel                                         | 158ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2043ms              
+Babel (2)                                     | 199ms (99 ms)       
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...BuildingBuilding...
+
+Build successful - 3871ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2058ms              
+Funnel: App JS Files                          | 1001ms              
+Babel                                         | 210ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2058ms              
+Funnel: App JS Files (1)                      | 1001ms              
+Babel (2)                                     | 255ms (127 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2563ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1946ms              
+Babel                                         | 159ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1946ms              
+Babel (2)                                     | 197ms (98 ms)       
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2839ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2040ms              
+Babel                                         | 179ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2040ms              
+Babel (2)                                     | 226ms (113 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2672ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2043ms              
+Babel                                         | 163ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2043ms              
+Babel (2)                                     | 206ms (103 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2593ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1913ms              
+Babel                                         | 177ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1913ms              
+Babel (2)                                     | 229ms (114 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2641ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2010ms              
+Babel                                         | 157ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2010ms              
+Babel (2)                                     | 202ms (101 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2636ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1992ms              
+Babel                                         | 150ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1992ms              
+Babel (2)                                     | 192ms (96 ms)       
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2684ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1889ms              
+Babel                                         | 189ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1889ms              
+Babel (2)                                     | 238ms (119 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2655ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2032ms              
+Babel                                         | 181ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2032ms              
+Babel (2)                                     | 220ms (110 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2460ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1845ms              
+Babel                                         | 134ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1845ms              
+Babel (2)                                     | 180ms (90 ms)       
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2568ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1920ms              
+Babel                                         | 158ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1920ms              
+Babel (2)                                     | 201ms (100 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2500ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1908ms              
+Babel                                         | 156ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1908ms              
+Babel (2)                                     | 198ms (99 ms)       
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2621ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2008ms              
+Babel                                         | 159ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2008ms              
+Babel (2)                                     | 200ms (100 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...
+
+Build successful - 2848ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2180ms              
+Babel                                         | 163ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2180ms              
+Babel (2)                                     | 210ms (105 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...
+
+Build successful - 2568ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1961ms              
+Babel                                         | 149ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1961ms              
+Babel (2)                                     | 207ms (103 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...
+
+Build successful - 2695ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2000ms              
+Babel                                         | 168ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2000ms              
+Babel (2)                                     | 217ms (108 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building...
+File: client/routes/index.js
+client/routes/index.js: Unexpected token (10:14)
+SyntaxError: client/routes/index.js: Unexpected token (10:14)
+   8 | // export default IndexRoute;
+   9 | 
+> 10 | export default
+     |               ^
+    at Parser.pp.raise (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/location.js:73:13)
+    at Parser.pp.unexpected (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/parseutil.js:87:8)
+    at Parser.pp.parseExprAtom (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/expression.js:393:12)
+    at Parser.pp.parseExprSubscripts (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/expression.js:217:19)
+    at Parser.pp.parseMaybeUnary (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/expression.js:199:19)
+    at Parser.pp.parseExprOps (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/expression.js:155:19)
+    at Parser.pp.parseMaybeConditional (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/expression.js:138:19)
+    at Parser.pp.parseMaybeAssign (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/expression.js:106:19)
+    at Parser.pp.parseExport (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/statement.js:603:22)
+    at Parser.pp.parseStatement (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/statement.js:102:85)
+File: client/routes/index.js
+client/routes/index.js: Unexpected token (10:14)
+SyntaxError: client/routes/index.js: Unexpected token (10:14)
+   8 | // export default IndexRoute;
+   9 | 
+> 10 | export default
+     |               ^
+    at Parser.pp.raise (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/location.js:73:13)
+    at Parser.pp.unexpected (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/parseutil.js:87:8)
+    at Parser.pp.parseExprAtom (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/expression.js:393:12)
+    at Parser.pp.parseExprSubscripts (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/expression.js:217:19)
+    at Parser.pp.parseMaybeUnary (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/expression.js:199:19)
+    at Parser.pp.parseExprOps (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/expression.js:155:19)
+    at Parser.pp.parseMaybeConditional (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/expression.js:138:19)
+    at Parser.pp.parseMaybeAssign (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/expression.js:106:19)
+    at Parser.pp.parseExport (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/statement.js:603:22)
+    at Parser.pp.parseStatement (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli-babel/node_modules/broccoli-babel-transpiler/node_modules/babel-core/lib/acorn/src/statement.js:102:85)
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2592ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1955ms              
+Babel                                         | 168ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1955ms              
+Babel (2)                                     | 218ms (109 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 3117ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1879ms              
+Funnel                                        | 176ms               
+Babel                                         | 173ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1879ms              
+Funnel (32)                                   | 439ms (13 ms)       
+Babel (2)                                     | 221ms (110 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2870ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2092ms              
+Babel                                         | 204ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2092ms              
+Babel (2)                                     | 253ms (126 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2817ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2035ms              
+Babel                                         | 184ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2035ms              
+Babel (2)                                     | 228ms (114 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2604ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1962ms              
+Babel                                         | 168ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1962ms              
+Babel (2)                                     | 214ms (107 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2752ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1974ms              
+Babel                                         | 164ms               
+ES6: App Tree                                 | 154ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1974ms              
+Babel (2)                                     | 210ms (105 ms)      
+ES6: App Tree (1)                             | 154ms               
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2822ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1994ms              
+Babel                                         | 181ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1994ms              
+Babel (2)                                     | 226ms (113 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2562ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1910ms              
+Babel                                         | 158ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1910ms              
+Babel (2)                                     | 208ms (104 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2594ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1969ms              
+Babel                                         | 154ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1969ms              
+Babel (2)                                     | 197ms (98 ms)       
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2649ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1951ms              
+Babel                                         | 151ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1951ms              
+Babel (2)                                     | 197ms (98 ms)       
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2629ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1969ms              
+Babel                                         | 166ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1969ms              
+Babel (2)                                     | 207ms (103 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2624ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2021ms              
+Babel                                         | 169ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2021ms              
+Babel (2)                                     | 212ms (106 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+money-transactions/route.js: line 3, col 1, 'App' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building..Building...
+
+Build successful - 2627ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1974ms              
+Babel                                         | 169ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1974ms              
+Babel (2)                                     | 211ms (105 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+money-transactions/route.js: line 3, col 1, 'App' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building..Building...
+
+Build successful - 2585ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1914ms              
+Babel                                         | 186ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1914ms              
+Babel (2)                                     | 233ms (116 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+money-transactions/route.js: line 3, col 1, 'App' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building..Building...
+
+Build successful - 2524ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1914ms              
+Babel                                         | 175ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1914ms              
+Babel (2)                                     | 219ms (109 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2957ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2113ms              
+Babel                                         | 212ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2113ms              
+Babel (2)                                     | 268ms (134 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2595ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1955ms              
+Babel                                         | 169ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1955ms              
+Babel (2)                                     | 209ms (104 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2756ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2096ms              
+Babel                                         | 165ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2096ms              
+Babel (2)                                     | 206ms (103 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2666ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2034ms              
+Babel                                         | 183ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2034ms              
+Babel (2)                                     | 222ms (111 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2522ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1904ms              
+Babel                                         | 173ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1904ms              
+Babel (2)                                     | 228ms (114 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...Building...
+
+Build successful - 2603ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1900ms              
+Babel                                         | 178ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1900ms              
+Babel (2)                                     | 248ms (124 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2543ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1922ms              
+Babel                                         | 191ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1922ms              
+Babel (2)                                     | 226ms (113 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2560ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1873ms              
+Babel                                         | 193ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1873ms              
+Babel (2)                                     | 241ms (120 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2589ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1950ms              
+Babel                                         | 162ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1950ms              
+Babel (2)                                     | 203ms (101 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2547ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1861ms              
+Babel                                         | 167ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1861ms              
+Babel (2)                                     | 208ms (104 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2523ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1871ms              
+Babel                                         | 180ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1871ms              
+Babel (2)                                     | 225ms (112 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2610ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2018ms              
+Babel                                         | 171ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2018ms              
+Babel (2)                                     | 213ms (106 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2944ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1894ms              
+TreeMerger                                    | 223ms               
+Babel                                         | 154ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1894ms              
+TreeMerger (104)                              | 300ms (2 ms)        
+Babel (2)                                     | 201ms (100 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2553ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1928ms              
+Babel                                         | 180ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1928ms              
+Babel (2)                                     | 218ms (109 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2655ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2012ms              
+Babel                                         | 186ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2012ms              
+Babel (2)                                     | 224ms (112 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2499ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1846ms              
+Babel                                         | 177ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1846ms              
+Babel (2)                                     | 219ms (109 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2651ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1952ms              
+Babel                                         | 186ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1952ms              
+Babel (2)                                     | 225ms (112 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2622ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1913ms              
+Babel                                         | 176ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1913ms              
+Babel (2)                                     | 219ms (109 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2582ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1908ms              
+Babel                                         | 198ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1908ms              
+Babel (2)                                     | 239ms (119 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2563ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1933ms              
+Babel                                         | 173ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1933ms              
+Babel (2)                                     | 212ms (106 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2570ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1954ms              
+Babel                                         | 186ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1954ms              
+Babel (2)                                     | 220ms (110 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2592ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1945ms              
+Babel                                         | 174ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1945ms              
+Babel (2)                                     | 212ms (106 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2608ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1936ms              
+Babel                                         | 169ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1936ms              
+Babel (2)                                     | 211ms (105 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2830ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2029ms              
+Babel                                         | 233ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2029ms              
+Babel (2)                                     | 294ms (147 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2588ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1920ms              
+Babel                                         | 196ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1920ms              
+Babel (2)                                     | 240ms (120 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2606ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1974ms              
+Babel                                         | 193ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1974ms              
+Babel (2)                                     | 228ms (114 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2554ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1911ms              
+Babel                                         | 173ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1911ms              
+Babel (2)                                     | 213ms (106 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2592ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1944ms              
+Babel                                         | 176ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1944ms              
+Babel (2)                                     | 219ms (109 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2577ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1899ms              
+Babel                                         | 186ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1899ms              
+Babel (2)                                     | 230ms (115 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2537ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1883ms              
+Babel                                         | 168ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1883ms              
+Babel (2)                                     | 212ms (106 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2606ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1941ms              
+Babel                                         | 176ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1941ms              
+Babel (2)                                     | 220ms (110 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2498ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1881ms              
+Babel                                         | 166ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1881ms              
+Babel (2)                                     | 207ms (103 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2728ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2032ms              
+Babel                                         | 199ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2032ms              
+Babel (2)                                     | 235ms (117 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2474ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1816ms              
+Babel                                         | 190ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1816ms              
+Babel (2)                                     | 232ms (116 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2545ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1931ms              
+Babel                                         | 175ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1931ms              
+Babel (2)                                     | 209ms (104 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2670ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2000ms              
+Babel                                         | 183ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2000ms              
+Babel (2)                                     | 223ms (111 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2606ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1932ms              
+Babel                                         | 184ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1932ms              
+Babel (2)                                     | 225ms (112 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2613ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1892ms              
+Babel                                         | 195ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1892ms              
+Babel (2)                                     | 231ms (115 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2552ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1845ms              
+Babel                                         | 199ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1845ms              
+Babel (2)                                     | 237ms (118 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2660ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1959ms              
+Babel                                         | 188ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1959ms              
+Babel (2)                                     | 230ms (115 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2951ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1999ms              
+Babel                                         | 195ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1999ms              
+Babel (2)                                     | 239ms (119 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2630ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1968ms              
+Babel                                         | 159ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1968ms              
+Babel (2)                                     | 197ms (98 ms)       
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2625ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1965ms              
+Babel                                         | 187ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1965ms              
+Babel (2)                                     | 227ms (113 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...Building...
+
+Build successful - 2668ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1942ms              
+Babel                                         | 209ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1942ms              
+Babel (2)                                     | 256ms (128 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2623ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1979ms              
+Babel                                         | 198ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1979ms              
+Babel (2)                                     | 237ms (118 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...Building...
+
+Build successful - 2783ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2063ms              
+Babel                                         | 210ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2063ms              
+Babel (2)                                     | 253ms (126 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...Building...
+
+Build successful - 2688ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1975ms              
+Babel                                         | 184ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1975ms              
+Babel (2)                                     | 226ms (113 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...Building...
+
+Build successful - 2754ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2011ms              
+Babel                                         | 197ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2011ms              
+Babel (2)                                     | 242ms (121 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...Building...
+
+Build successful - 2701ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1983ms              
+Babel                                         | 196ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1983ms              
+Babel (2)                                     | 236ms (118 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2598ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1931ms              
+Babel                                         | 209ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1931ms              
+Babel (2)                                     | 245ms (122 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 3113ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1992ms              
+ConfigLoader                                  | 331ms               
+Babel                                         | 197ms               
+Babel                                         | 190ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1992ms              
+Babel (2)                                     | 388ms (194 ms)      
+ConfigLoader (1)                              | 331ms               
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...Building...
+
+Build successful - 2685ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1979ms              
+Babel                                         | 191ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1979ms              
+Babel (2)                                     | 233ms (116 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...Building...
+
+Build successful - 2585ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1871ms              
+Babel                                         | 184ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1871ms              
+Babel (2)                                     | 230ms (115 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+BuildingBuilding...
+
+Build successful - 3421ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1911ms              
+TreeMerger (allTrees)                         | 230ms               
+Babel                                         | 198ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1911ms              
+Funnel (32)                                   | 363ms (11 ms)       
+Babel (2)                                     | 241ms (120 ms)      
+TreeMerger (allTrees) (1)                     | 230ms               
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2603ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1945ms              
+Babel                                         | 192ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1945ms              
+Babel (2)                                     | 236ms (118 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...Building...
+
+Build successful - 3243ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2556ms              
+Babel                                         | 208ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2556ms              
+Babel (2)                                     | 248ms (124 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2610ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1954ms              
+Babel                                         | 177ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1954ms              
+Babel (2)                                     | 227ms (113 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...Building...
+
+Build successful - 2673ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1943ms              
+Babel                                         | 212ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1943ms              
+Babel (2)                                     | 257ms (128 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2661ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1899ms              
+Babel                                         | 208ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1899ms              
+Babel (2)                                     | 254ms (127 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2752ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2001ms              
+Babel                                         | 196ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2001ms              
+Babel (2)                                     | 242ms (121 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...Building...
+
+Build successful - 2762ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2063ms              
+Babel                                         | 218ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2063ms              
+Babel (2)                                     | 257ms (128 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2592ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1928ms              
+Babel                                         | 198ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1928ms              
+Babel (2)                                     | 241ms (120 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2677ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1953ms              
+Babel                                         | 182ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1953ms              
+Babel (2)                                     | 226ms (113 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 3370ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1992ms              
+Babel                                         | 235ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1992ms              
+Babel (2)                                     | 282ms (141 ms)      
+Funnel (32)                                   | 220ms (6 ms)        
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2687ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1883ms              
+Babel                                         | 212ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1883ms              
+Babel (2)                                     | 257ms (128 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2759ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2036ms              
+Babel                                         | 211ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2036ms              
+Babel (2)                                     | 264ms (132 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2832ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1943ms              
+Babel                                         | 219ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1943ms              
+Babel (2)                                     | 263ms (131 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...Building...
+
+Build successful - 2633ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1927ms              
+Babel                                         | 204ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1927ms              
+Babel (2)                                     | 246ms (123 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2682ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1900ms              
+Babel                                         | 226ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1900ms              
+Babel (2)                                     | 274ms (137 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2737ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1987ms              
+Babel                                         | 211ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1987ms              
+Babel (2)                                     | 259ms (129 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2637ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1938ms              
+Babel                                         | 190ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1938ms              
+Babel (2)                                     | 232ms (116 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...Building...
+
+Build successful - 2686ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1932ms              
+Babel                                         | 198ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1932ms              
+Babel (2)                                     | 243ms (121 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...Building...
+
+Build successful - 2703ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1963ms              
+Babel                                         | 218ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1963ms              
+Babel (2)                                     | 261ms (130 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2643ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1975ms              
+Babel                                         | 170ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1975ms              
+Babel (2)                                     | 225ms (112 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...Building...
+
+Build successful - 2912ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2183ms              
+Babel                                         | 215ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2183ms              
+Babel (2)                                     | 260ms (130 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...Building...
+
+Build successful - 2640ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1918ms              
+Babel                                         | 195ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1918ms              
+Babel (2)                                     | 241ms (120 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...Building...
+
+Build successful - 2690ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1960ms              
+Babel                                         | 187ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1960ms              
+Babel (2)                                     | 232ms (116 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2637ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1983ms              
+Babel                                         | 180ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1983ms              
+Babel (2)                                     | 231ms (115 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2754ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2003ms              
+Babel                                         | 189ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2003ms              
+Babel (2)                                     | 226ms (113 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2720ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1923ms              
+Babel                                         | 198ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1923ms              
+Babel (2)                                     | 242ms (121 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...Building...
+
+Build successful - 2687ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1955ms              
+Babel                                         | 192ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1955ms              
+Babel (2)                                     | 243ms (121 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...Building...
+
+Build successful - 2641ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1927ms              
+Babel                                         | 214ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1927ms              
+Babel (2)                                     | 265ms (132 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2590ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1888ms              
+Babel                                         | 178ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1888ms              
+Babel (2)                                     | 219ms (109 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...Building...
+
+Build successful - 2743ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2025ms              
+Babel                                         | 192ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2025ms              
+Babel (2)                                     | 234ms (117 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...Building...
+
+Build successful - 2613ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1921ms              
+Babel                                         | 203ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1921ms              
+Babel (2)                                     | 244ms (122 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2691ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2014ms              
+Babel                                         | 203ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2014ms              
+Babel (2)                                     | 244ms (122 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2877ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1862ms              
+Babel                                         | 209ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1862ms              
+Babel (2)                                     | 250ms (125 ms)      
+TreeMerger (104)                              | 161ms (1 ms)        
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...
+
+Build successful - 2648ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1972ms              
+Babel                                         | 178ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1972ms              
+Babel (2)                                     | 229ms (114 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...Building...
+
+Build successful - 2598ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1878ms              
+Babel                                         | 215ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1878ms              
+Babel (2)                                     | 255ms (127 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...Building...
+
+Build successful - 3383ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1958ms              
+TreeMerger                                    | 310ms               
+ES6: App Tree                                 | 281ms               
+Babel                                         | 194ms               
+TreeMerger                                    | 170ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1958ms              
+TreeMerger (104)                              | 499ms (4 ms)        
+ES6: App Tree (1)                             | 281ms               
+Babel (2)                                     | 239ms (119 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building..Building...Building...
+
+Build successful - 2679ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1984ms              
+Babel                                         | 193ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1984ms              
+Babel (2)                                     | 243ms (121 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2653ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1909ms              
+Babel                                         | 216ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1909ms              
+Babel (2)                                     | 267ms (133 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 1 JSHint Error
+
+Building...Building...
+
+Build successful - 2643ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1885ms              
+Babel                                         | 180ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1885ms              
+Babel (2)                                     | 227ms (113 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+adapters/application.js: line 7, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building...Building...
+
+Build successful - 2900ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2130ms              
+Babel                                         | 175ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2130ms              
+Babel (2)                                     | 219ms (109 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+adapters/application.js: line 7, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building...Building...
+
+Build successful - 2805ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2026ms              
+Babel                                         | 220ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2026ms              
+Babel (2)                                     | 262ms (131 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+adapters/application.js: line 7, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building..Building...
+
+Build successful - 2605ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1922ms              
+Babel                                         | 203ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1922ms              
+Babel (2)                                     | 240ms (120 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+adapters/application.js: line 7, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building...Building...
+
+Build successful - 2774ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1937ms              
+Babel                                         | 254ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1937ms              
+Babel (2)                                     | 299ms (149 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+adapters/application.js: line 7, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building...Building...
+
+Build successful - 2689ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1923ms              
+Babel                                         | 216ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1923ms              
+Babel (2)                                     | 256ms (128 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+adapters/application.js: line 7, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building...Building...
+
+Build successful - 2698ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1935ms              
+Babel                                         | 211ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1935ms              
+Babel (2)                                     | 264ms (132 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+adapters/application.js: line 7, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building...Building...
+
+Build successful - 2767ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1983ms              
+Babel                                         | 209ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1983ms              
+Babel (2)                                     | 264ms (132 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+adapters/application.js: line 7, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building..Building...Building...
+
+Build successful - 2620ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1917ms              
+Babel                                         | 227ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1917ms              
+Babel (2)                                     | 266ms (133 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+adapters/application.js: line 7, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building...Building...
+
+Build successful - 2753ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1996ms              
+Babel                                         | 231ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1996ms              
+Babel (2)                                     | 280ms (140 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+adapters/application.js: line 7, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building...Building...
+
+Build successful - 2780ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1928ms              
+Babel                                         | 224ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1928ms              
+Babel (2)                                     | 269ms (134 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+adapters/application.js: line 7, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building..Building...
+
+Build successful - 2763ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1978ms              
+Babel                                         | 170ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1978ms              
+Babel (2)                                     | 220ms (110 ms)      
+SourcemapConcat (3)                           | 156ms (52 ms)       
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+adapters/application.js: line 7, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building..Building...Building...
+
+Build successful - 2761ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2011ms              
+Babel                                         | 212ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2011ms              
+Babel (2)                                     | 252ms (126 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+0.2.5
+
+BuildingBuilding.
+adapters/application.js: line 7, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building..Building...Building...
+
+Build successful - 2676ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1950ms              
+Babel                                         | 172ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1950ms              
+Babel (2)                                     | 218ms (109 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+adapters/application.js: line 7, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building..Building...Building...
+
+Build successful - 2677ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1941ms              
+Babel                                         | 202ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1941ms              
+Babel (2)                                     | 246ms (123 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+adapters/application.js: line 7, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building...Building...
+
+Build successful - 2895ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2094ms              
+Babel                                         | 221ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2094ms              
+Babel (2)                                     | 273ms (136 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+adapters/application.js: line 6, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building..Building...
+
+Build successful - 2604ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1937ms              
+Babel                                         | 174ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1937ms              
+Babel (2)                                     | 218ms (109 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+adapters/application.js: line 6, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building..Building...Building...
+
+Build successful - 2659ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1920ms              
+Babel                                         | 222ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1920ms              
+Babel (2)                                     | 262ms (131 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+adapters/application.js: line 6, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building..Building...Building...
+
+Build successful - 2699ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2000ms              
+Babel                                         | 200ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2000ms              
+Babel (2)                                     | 238ms (119 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+adapters/application.js: line 6, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building...Building...
+
+Build successful - 2736ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1950ms              
+Babel                                         | 202ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1950ms              
+Babel (2)                                     | 252ms (126 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+adapters/application.js: line 6, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building...Building...
+
+Build successful - 2630ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1921ms              
+Babel                                         | 183ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1921ms              
+Babel (2)                                     | 230ms (115 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+adapters/application.js: line 6, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building..Building...Building...
+
+Build successful - 2660ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1905ms              
+Babel                                         | 215ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1905ms              
+Babel (2)                                     | 255ms (127 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+adapters/application.js: line 6, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building..Building...Building...
+
+Build successful - 2706ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1942ms              
+Babel                                         | 215ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1942ms              
+Babel (2)                                     | 260ms (130 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+adapters/application.js: line 6, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building..Building...
+
+Build successful - 2579ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1916ms              
+Babel                                         | 187ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1916ms              
+Babel (2)                                     | 228ms (114 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+adapters/application.js: line 6, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building...Building...
+
+Build successful - 3235ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1996ms              
+Babel                                         | 755ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1996ms              
+Babel (2)                                     | 792ms (396 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+adapters/application.js: line 6, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building..Building...Building...
+
+Build successful - 2679ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1981ms              
+Babel                                         | 197ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1981ms              
+Babel (2)                                     | 241ms (120 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+adapters/application.js: line 6, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building..Building...
+
+Build successful - 2657ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1990ms              
+Babel                                         | 178ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1990ms              
+Babel (2)                                     | 229ms (114 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+adapters/application.js: line 6, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building...Building...
+
+Build successful - 2729ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1974ms              
+Babel                                         | 216ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1974ms              
+Babel (2)                                     | 262ms (131 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+adapters/application.js: line 6, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building..Building...Building...
+
+Build successful - 2668ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1948ms              
+Babel                                         | 218ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1948ms              
+Babel (2)                                     | 263ms (131 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+adapters/application.js: line 6, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building..Building...
+
+Build successful - 2704ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1996ms              
+Babel                                         | 171ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1996ms              
+Babel (2)                                     | 217ms (108 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+adapters/application.js: line 6, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building..Building...
+
+Build successful - 2562ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1899ms              
+Babel                                         | 167ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1899ms              
+Babel (2)                                     | 215ms (107 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+adapters/application.js: line 6, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building...Building...
+
+Build successful - 2591ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1896ms              
+Babel                                         | 184ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1896ms              
+Babel (2)                                     | 234ms (117 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+adapters/application.js: line 6, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building..Building...
+
+Build successful - 2594ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1896ms              
+Babel                                         | 194ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1896ms              
+Babel (2)                                     | 242ms (121 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+adapters/application.js: line 6, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building..Building...Building...
+
+Build successful - 2617ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1895ms              
+Babel                                         | 205ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1895ms              
+Babel (2)                                     | 252ms (126 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.
+adapters/application.js: line 6, col 12, 'Ember' is not defined.
+
+1 error
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building..Building...Building...
+
+Build successful - 2626ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1915ms              
+Babel                                         | 210ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1915ms              
+Babel (2)                                     | 252ms (126 ms)      
+

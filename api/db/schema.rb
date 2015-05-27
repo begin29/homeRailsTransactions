@@ -13,7 +13,7 @@
 
 ActiveRecord::Schema.define(version: 20150504043611) do
 
-  create_table "transactions", force: true do |t|
+  create_table "money_transactions", force: true do |t|
     t.string   "description"
     t.integer  "price"
     t.boolean  "is_income"
