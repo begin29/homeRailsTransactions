@@ -13,6 +13,16 @@ class Api::V1::MoneyTransactionsController < ApplicationController
     respond_with MoneyTransaction.find(params[:id])
   end
 
+  def create
+    binding.pry
+    @money_transaction = MoneyTransaction.new(money_transaction_params)
+    if @money_transaction.save
+      # respond_with { success: true }
+    else
+      # respond_with { error: true }
+    end
+  end
+
   private
 
   def money_transaction_params

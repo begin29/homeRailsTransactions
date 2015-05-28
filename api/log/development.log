@@ -19169,3 +19169,3167 @@ Started GET "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-27 18:26:28 +0
 Processing by Api::V1::MoneyTransactionsController#index as JSON
   [1m[35mMoneyTransaction Load (0.2ms)[0m  SELECT "money_transactions".* FROM "money_transactions"
 Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 11:29:01 +0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (83.0ms)
+Completed 200 OK in 301ms (Views: 300.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 11:29:09 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 11:29:13 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 11:29:13 +0300
+
+ActionController::RoutingError (No route matches [GET] "/assets/frontend/vendor.js"):
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.2ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (4.4ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (23.4ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 11:29:13 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 11:29:13 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 11:29:13 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 11:29:13 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 11:29:13 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 11:29:13 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 11:29:13 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 11:29:19 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 11:29:24 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 11:29:24 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 11:29:24 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 11:29:24 +0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 11:29:44 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (10.3ms)
+Completed 200 OK in 13ms (Views: 13.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 11:29:49 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 11:29:54 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 11:29:54 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 11:29:54 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 11:29:54 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 11:29:54 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 11:29:54 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 11:29:54 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 11:29:54 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 11:29:54 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 11:29:54 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 11:29:58 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 11:29:58 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 11:29:58 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 11:29:58 +0300
+
+
+Started GET "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 11:29:58 +0300
+Processing by Api::V1::MoneyTransactionsController#index as JSON
+  [1m[35mMoneyTransaction Load (0.2ms)[0m  SELECT "money_transactions".* FROM "money_transactions"
+Completed 200 OK in 58ms (Views: 8.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 11:54:38 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (14.6ms)
+Completed 200 OK in 17ms (Views: 17.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 11:54:42 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 11:54:47 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 11:54:47 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 11:54:47 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 11:54:47 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 11:54:47 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 11:54:47 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 11:54:47 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 11:54:47 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 11:54:47 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 11:54:47 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 11:54:51 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 11:54:51 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 11:54:51 +0300
+
+
+Started GET "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 11:54:51 +0300
+Processing by Api::V1::MoneyTransactionsController#index as JSON
+  [1m[36mMoneyTransaction Load (1.5ms)[0m  [1mSELECT "money_transactions".* FROM "money_transactions"[0m
+Completed 200 OK in 6ms (Views: 2.5ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/money_transactions" for 127.0.0.1 at 2015-05-28 11:58:02 +0300
+
+ActionController::RoutingError (No route matches [GET] "/money_transactions"):
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.7ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.3ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (15.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 11:58:06 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (14.8ms)
+Completed 200 OK in 18ms (Views: 18.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 11:58:07 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 11:58:11 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 11:58:11 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 11:58:11 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 11:58:11 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 11:58:11 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 11:58:11 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 11:58:11 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 11:58:11 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 11:58:11 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 11:58:11 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 11:58:16 +0300
+
+
+Started GET "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 11:58:16 +0300
+Processing by Api::V1::MoneyTransactionsController#index as JSON
+  [1m[35mMoneyTransaction Load (0.2ms)[0m  SELECT "money_transactions".* FROM "money_transactions"
+Completed 200 OK in 3ms (Views: 1.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 11:58:16 +0300
+Processing by Api::V1::MoneyTransactionsController#index as JSON
+  [1m[36mMoneyTransaction Load (0.2ms)[0m  [1mSELECT "money_transactions".* FROM "money_transactions"[0m
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 11:59:05 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (13.7ms)
+Completed 200 OK in 17ms (Views: 16.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 11:59:10 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 11:59:14 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 11:59:14 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 11:59:14 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 11:59:14 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 11:59:14 +0300
+
+
+Started GET "/stylesheets/frontend/vendor.css" for 127.0.0.1 at 2015-05-28 11:59:14 +0300
+
+ActionController::RoutingError (No route matches [GET] "/stylesheets/frontend/vendor.css"):
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.5ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.3ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (17.2ms)
+
+
+Started GET "/assets/frontend/client.css" for 127.0.0.1 at 2015-05-28 11:59:14 +0300
+
+
+Started GET "/javascripts/frontend/client.js" for 127.0.0.1 at 2015-05-28 11:59:14 +0300
+
+ActionController::RoutingError (No route matches [GET] "/javascripts/frontend/client.js"):
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.2ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.1ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (24.0ms)
+
+
+Started GET "/javascripts/frontend/vendor.js" for 127.0.0.1 at 2015-05-28 11:59:14 +0300
+
+ActionController::RoutingError (No route matches [GET] "/javascripts/frontend/vendor.js"):
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.4ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.1ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (14.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 11:59:22 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (51.1ms)
+Completed 200 OK in 54ms (Views: 53.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 11:59:27 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 11:59:31 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 11:59:31 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 11:59:31 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 11:59:31 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 11:59:31 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 11:59:31 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 11:59:31 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 11:59:31 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 11:59:31 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 11:59:32 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 11:59:36 +0300
+
+
+Started GET "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 11:59:36 +0300
+Processing by Api::V1::MoneyTransactionsController#index as JSON
+  [1m[35mMoneyTransaction Load (0.2ms)[0m  SELECT "money_transactions".* FROM "money_transactions"
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/money_transactions" for 127.0.0.1 at 2015-05-28 12:07:50 +0300
+
+ActionController::RoutingError (No route matches [GET] "/money_transactions"):
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.2ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (16.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 12:08:00 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (46.1ms)
+Completed 200 OK in 49ms (Views: 49.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 12:08:05 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 12:08:09 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 12:08:09 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 12:08:09 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 12:08:09 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 12:08:09 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 12:08:09 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 12:08:09 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 12:08:09 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 12:08:09 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 12:08:09 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 12:08:14 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 12:08:14 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 12:08:14 +0300
+
+
+Started GET "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 12:08:14 +0300
+Processing by Api::V1::MoneyTransactionsController#index as JSON
+  [1m[36mMoneyTransaction Load (0.2ms)[0m  [1mSELECT "money_transactions".* FROM "money_transactions"[0m
+Completed 200 OK in 11ms (Views: 1.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/money_transactions" for 127.0.0.1 at 2015-05-28 12:19:09 +0300
+
+ActionController::RoutingError (No route matches [GET] "/money_transactions"):
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.1ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (0.9ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (12.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 12:19:18 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (22.5ms)
+Completed 200 OK in 25ms (Views: 25.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 12:19:22 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 12:19:22 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 12:19:22 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 12:19:22 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 12:19:22 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 12:19:22 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 12:19:22 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 12:19:22 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 12:19:22 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 12:19:22 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 12:19:23 +0300
+
+ActionController::RoutingError (No route matches [GET] "/assets/frontend/vendor.map"):
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.4ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (0.9ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (20.3ms)
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 12:19:27 +0300
+
+
+Started GET "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 12:19:27 +0300
+Processing by Api::V1::MoneyTransactionsController#index as JSON
+  [1m[35mMoneyTransaction Load (0.2ms)[0m  SELECT "money_transactions".* FROM "money_transactions"
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 12:21:47 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (59.1ms)
+Completed 200 OK in 77ms (Views: 76.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 12:21:58 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 12:22:03 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 12:22:03 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 12:22:03 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 12:22:03 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 12:22:03 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 12:22:03 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 12:22:03 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 12:22:03 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 12:22:03 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 12:22:03 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 12:22:03 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 12:22:08 +0300
+
+
+Started GET "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 12:22:08 +0300
+Processing by Api::V1::MoneyTransactionsController#index as JSON
+  [1m[36mMoneyTransaction Load (28.7ms)[0m  [1mSELECT "money_transactions".* FROM "money_transactions"[0m
+Completed 200 OK in 31ms (Views: 1.4ms | ActiveRecord: 28.7ms)
+
+
+Started GET "/money_transactions" for 127.0.0.1 at 2015-05-28 12:22:41 +0300
+
+ActionController::RoutingError (No route matches [GET] "/money_transactions"):
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.1ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.1ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (13.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 12:22:50 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (45.8ms)
+Completed 200 OK in 48ms (Views: 48.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 12:22:54 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 12:22:59 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 12:22:59 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 12:22:59 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 12:22:59 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 12:22:59 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 12:22:59 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 12:22:59 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 12:22:59 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 12:22:59 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 12:22:59 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 12:23:04 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 12:23:04 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 12:23:04 +0300
+
+
+Started GET "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 12:23:04 +0300
+Processing by Api::V1::MoneyTransactionsController#index as JSON
+  [1m[35mMoneyTransaction Load (0.2ms)[0m  SELECT "money_transactions".* FROM "money_transactions"
+Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 12:23:37 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (51.3ms)
+Completed 200 OK in 54ms (Views: 54.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 12:23:42 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 12:23:47 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 12:23:47 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 12:23:47 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 12:23:47 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 12:23:47 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 12:23:47 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 12:23:47 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 12:23:47 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 12:23:47 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 12:23:47 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 12:23:52 +0300
+
+
+Started GET "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 12:23:52 +0300
+Processing by Api::V1::MoneyTransactionsController#index as JSON
+  [1m[36mMoneyTransaction Load (0.2ms)[0m  [1mSELECT "money_transactions".* FROM "money_transactions"[0m
+Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 12:25:54 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (11.3ms)
+Completed 200 OK in 14ms (Views: 13.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 12:25:59 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 12:25:59 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 12:25:59 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 12:25:59 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 12:25:59 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 12:25:59 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 12:25:59 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 12:25:59 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 12:25:59 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 12:25:59 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 12:26:00 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 12:26:04 +0300
+
+
+Started GET "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 12:26:04 +0300
+Processing by Api::V1::MoneyTransactionsController#index as JSON
+  [1m[35mMoneyTransaction Load (0.2ms)[0m  SELECT "money_transactions".* FROM "money_transactions"
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 12:36:04 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (23.8ms)
+Completed 200 OK in 27ms (Views: 26.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 12:36:09 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 12:36:09 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 12:36:09 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 12:36:09 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 12:36:09 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 12:36:09 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 12:36:09 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 12:36:09 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 12:36:09 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 12:36:09 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 12:36:09 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 12:36:14 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 12:36:14 +0300
+
+
+Started GET "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 12:36:14 +0300
+Processing by Api::V1::MoneyTransactionsController#index as JSON
+  [1m[36mMoneyTransaction Load (0.2ms)[0m  [1mSELECT "money_transactions".* FROM "money_transactions"[0m
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 13:01:35 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (20.2ms)
+Completed 200 OK in 23ms (Views: 22.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 13:01:40 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 13:01:44 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 13:01:44 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 13:01:44 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 13:01:44 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 13:01:44 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 13:01:44 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 13:01:44 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 13:01:44 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 13:01:44 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 13:01:45 +0300
+
+ActionController::RoutingError (No route matches [GET] "/assets/frontend/vendor.map"):
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.4ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.1ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (19.5ms)
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 13:01:49 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 13:01:49 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 13:01:49 +0300
+
+
+Started GET "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 13:01:49 +0300
+Processing by Api::V1::MoneyTransactionsController#index as JSON
+  [1m[35mMoneyTransaction Load (0.2ms)[0m  SELECT "money_transactions".* FROM "money_transactions"
+Completed 200 OK in 3ms (Views: 2.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 13:15:59 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (38.4ms)
+Completed 200 OK in 41ms (Views: 40.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 13:16:04 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 13:16:09 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 13:16:09 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 13:16:09 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 13:16:09 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 13:16:09 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 13:16:09 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 13:16:09 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 13:16:09 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 13:16:09 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 13:16:09 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 13:16:14 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 13:16:14 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 13:16:14 +0300
+
+
+Started GET "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 13:16:14 +0300
+Processing by Api::V1::MoneyTransactionsController#index as JSON
+  [1m[36mMoneyTransaction Load (0.5ms)[0m  [1mSELECT "money_transactions".* FROM "money_transactions"[0m
+Completed 200 OK in 3ms (Views: 1.4ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 13:18:49 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (16.1ms)
+Completed 200 OK in 20ms (Views: 20.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 13:18:53 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (10.8ms)
+Completed 200 OK in 13ms (Views: 13.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 13:18:54 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 13:18:54 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 13:18:54 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 13:18:54 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 13:18:54 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 13:18:54 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 13:18:54 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 13:18:54 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 13:18:54 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 13:18:54 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 13:18:54 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 13:18:59 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 13:18:59 +0300
+
+
+Started GET "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 13:19:03 +0300
+Processing by Api::V1::MoneyTransactionsController#index as JSON
+  [1m[35mMoneyTransaction Load (0.2ms)[0m  SELECT "money_transactions".* FROM "money_transactions"
+Completed 200 OK in 2ms (Views: 1.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 13:28:21 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (14.9ms)
+Completed 200 OK in 17ms (Views: 17.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 13:28:25 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 13:28:31 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 13:28:31 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 13:28:31 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 13:28:31 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 13:28:31 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 13:28:31 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 13:28:31 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 13:28:31 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 13:28:31 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 13:28:31 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 13:28:36 +0300
+
+
+Started GET "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 13:28:36 +0300
+Processing by Api::V1::MoneyTransactionsController#index as JSON
+  [1m[36mMoneyTransaction Load (0.2ms)[0m  [1mSELECT "money_transactions".* FROM "money_transactions"[0m
+Completed 200 OK in 2ms (Views: 1.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 13:30:32 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (16.9ms)
+Completed 200 OK in 20ms (Views: 19.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 13:30:37 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 13:30:42 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 13:30:42 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 13:30:42 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 13:30:42 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 13:30:42 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 13:30:42 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 13:30:42 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 13:30:42 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 13:30:42 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 13:30:42 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 13:30:47 +0300
+
+
+Started GET "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 13:30:47 +0300
+Processing by Api::V1::MoneyTransactionsController#index as JSON
+  [1m[35mMoneyTransaction Load (0.2ms)[0m  SELECT "money_transactions".* FROM "money_transactions"
+Completed 200 OK in 5ms (Views: 3.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 13:30:58 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (14.8ms)
+Completed 200 OK in 18ms (Views: 17.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 13:31:03 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 13:31:07 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 13:31:07 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 13:31:07 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 13:31:07 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 13:31:07 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 13:31:07 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 13:31:07 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 13:31:07 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 13:31:07 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 13:31:07 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 13:31:12 +0300
+
+
+Started GET "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 13:31:12 +0300
+Processing by Api::V1::MoneyTransactionsController#index as JSON
+  [1m[36mMoneyTransaction Load (0.2ms)[0m  [1mSELECT "money_transactions".* FROM "money_transactions"[0m
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 13:31:49 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (14.0ms)
+Completed 200 OK in 17ms (Views: 16.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 13:31:54 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 13:31:59 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 13:31:59 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 13:31:59 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 13:31:59 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 13:31:59 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 13:31:59 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 13:31:59 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 13:31:59 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 13:31:59 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 13:31:59 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 13:32:04 +0300
+
+
+Started GET "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 13:32:04 +0300
+Processing by Api::V1::MoneyTransactionsController#index as JSON
+  [1m[35mMoneyTransaction Load (0.2ms)[0m  SELECT "money_transactions".* FROM "money_transactions"
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 15:14:52 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (14.8ms)
+Completed 200 OK in 17ms (Views: 17.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 15:14:57 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 15:15:01 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 15:15:01 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 15:15:01 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 15:15:01 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 15:15:01 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 15:15:01 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 15:15:01 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 15:15:01 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 15:15:01 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 15:15:02 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 15:15:06 +0300
+
+
+Started GET "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 15:15:06 +0300
+Processing by Api::V1::MoneyTransactionsController#index as JSON
+  [1m[36mMoneyTransaction Load (0.7ms)[0m  [1mSELECT "money_transactions".* FROM "money_transactions"[0m
+Completed 200 OK in 4ms (Views: 2.3ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 15:20:38 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (18.4ms)
+Completed 200 OK in 21ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 15:20:43 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 15:20:47 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 15:20:47 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 15:20:47 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 15:20:47 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 15:20:47 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 15:20:47 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 15:20:47 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 15:20:47 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 15:20:47 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 15:20:48 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 15:20:52 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 15:20:52 +0300
+
+
+Started GET "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 15:20:52 +0300
+Processing by Api::V1::MoneyTransactionsController#index as JSON
+  [1m[35mMoneyTransaction Load (0.2ms)[0m  SELECT "money_transactions".* FROM "money_transactions"
+Completed 200 OK in 3ms (Views: 1.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 15:21:48 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (17.7ms)
+Completed 200 OK in 21ms (Views: 20.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 15:21:53 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 15:21:53 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 15:21:53 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 15:21:53 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 15:21:53 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 15:21:53 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 15:21:53 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 15:21:53 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 15:21:53 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 15:21:53 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 15:21:54 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 15:21:59 +0300
+
+
+Started GET "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 15:21:59 +0300
+Processing by Api::V1::MoneyTransactionsController#index as JSON
+  [1m[36mMoneyTransaction Load (0.2ms)[0m  [1mSELECT "money_transactions".* FROM "money_transactions"[0m
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 15:48:47 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (8.2ms)
+Completed 200 OK in 13ms (Views: 12.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 15:48:52 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 15:48:52 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 15:48:52 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 15:48:52 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 15:48:52 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 15:48:52 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 15:48:52 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 15:48:52 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 15:48:52 +0300
+
+
+Started GET "/javascripts/frontend/vendor.js" for 127.0.0.1 at 2015-05-28 15:48:52 +0300
+
+ActionController::RoutingError (No route matches [GET] "/javascripts/frontend/vendor.js"):
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.1ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (0.9ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (18.3ms)
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 15:48:52 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 15:48:57 +0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 15:49:00 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (10.1ms)
+Completed 200 OK in 12ms (Views: 12.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 15:49:05 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 15:49:05 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 15:49:05 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 15:49:05 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 15:49:05 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 15:49:05 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 15:49:05 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 15:49:05 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 15:49:05 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 15:49:05 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 15:49:05 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 15:49:09 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 15:49:10 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 15:49:14 +0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 15:51:54 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (14.5ms)
+Completed 200 OK in 17ms (Views: 16.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 15:51:59 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 15:52:04 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 15:52:04 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 15:52:04 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 15:52:04 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 15:52:04 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 15:52:04 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 15:52:04 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 15:52:04 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 15:52:04 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 15:52:04 +0300
+
+ActionController::RoutingError (No route matches [GET] "/assets/frontend/vendor.map"):
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.2ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (0.9ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (18.1ms)
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 15:52:09 +0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 15:52:27 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (16.5ms)
+Completed 200 OK in 19ms (Views: 19.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 15:52:32 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 15:52:37 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 15:52:37 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 15:52:37 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 15:52:37 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 15:52:37 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 15:52:37 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 15:52:37 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 15:52:37 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 15:52:37 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 15:52:37 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 15:52:43 +0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 16:02:10 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (15.0ms)
+Completed 200 OK in 18ms (Views: 17.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 16:02:15 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 16:02:21 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 16:02:21 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 16:02:21 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 16:02:21 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 16:02:21 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 16:02:21 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 16:02:21 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 16:02:21 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 16:02:21 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 16:02:21 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 16:02:26 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 16:02:26 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 16:02:26 +0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 16:03:11 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (14.1ms)
+Completed 200 OK in 17ms (Views: 16.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 16:03:16 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 16:03:21 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 16:03:21 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 16:03:21 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 16:03:21 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 16:03:21 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 16:03:21 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 16:03:21 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 16:03:21 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 16:03:21 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 16:03:21 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 16:03:21 +0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 17:12:47 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (68.7ms)
+Completed 200 OK in 94ms (Views: 93.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 17:12:58 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 17:13:05 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 17:13:05 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 17:13:05 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 17:13:05 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 17:13:05 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 17:13:05 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 17:13:05 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 17:13:05 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 17:13:05 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 17:13:05 +0300
+
+ActionController::RoutingError (No route matches [GET] "/assets/frontend/vendor.map"):
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.3ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.1ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (14.2ms)
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 17:13:10 +0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 17:17:26 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (25.4ms)
+Completed 200 OK in 28ms (Views: 28.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 17:17:31 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 17:17:31 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 17:17:31 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 17:17:31 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 17:17:31 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 17:17:31 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 17:17:31 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 17:17:31 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 17:17:31 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 17:17:31 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 17:17:32 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 17:17:36 +0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 17:20:46 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (14.5ms)
+Completed 200 OK in 17ms (Views: 17.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 17:20:51 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 17:20:55 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 17:20:55 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 17:20:55 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 17:20:55 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 17:20:55 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 17:20:55 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 17:20:56 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 17:20:56 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 17:20:56 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 17:20:56 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 17:21:00 +0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 17:28:12 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (41.1ms)
+Completed 200 OK in 45ms (Views: 45.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 17:28:17 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 17:28:22 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 17:28:22 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 17:28:22 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 17:28:22 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 17:28:22 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 17:28:22 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 17:28:22 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 17:28:22 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 17:28:22 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 17:28:22 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 17:28:28 +0300
+
+
+Started POST "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 17:31:10 +0300
+
+AbstractController::ActionNotFound (The action 'create' could not be found for Api::V1::MoneyTransactionsController):
+  actionpack (4.0.1) lib/abstract_controller/base.rb:131:in `process'
+  actionpack (4.0.1) lib/abstract_controller/rendering.rb:44:in `process'
+  actionpack (4.0.1) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.0.1) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.0.1) lib/action_controller/metal.rb:231:in `block in action'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:80:in `call'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:48:in `call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:680:in `call'
+  ember-cli-rails (0.3.1) lib/ember-cli/middleware.rb:14:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:35:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.1) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.1) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.1) lib/active_record/migration.rb:369:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:373:in `_run__889492504921333667__call__callbacks'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (0.5ms)
+
+
+Started POST "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 17:31:15 +0300
+
+AbstractController::ActionNotFound (The action 'create' could not be found for Api::V1::MoneyTransactionsController):
+  actionpack (4.0.1) lib/abstract_controller/base.rb:131:in `process'
+  actionpack (4.0.1) lib/abstract_controller/rendering.rb:44:in `process'
+  actionpack (4.0.1) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.0.1) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.0.1) lib/action_controller/metal.rb:231:in `block in action'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:80:in `call'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:48:in `call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:680:in `call'
+  ember-cli-rails (0.3.1) lib/ember-cli/middleware.rb:14:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:35:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.1) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.1) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.1) lib/active_record/migration.rb:369:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:373:in `_run__889492504921333667__call__callbacks'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 17:31:27 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (25.2ms)
+Completed 200 OK in 30ms (Views: 29.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 17:31:32 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 17:31:37 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 17:31:37 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 17:31:37 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 17:31:37 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 17:31:37 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 17:31:37 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 17:31:37 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 17:31:37 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 17:31:37 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 17:31:37 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 17:31:42 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 17:31:42 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 17:31:42 +0300
+
+
+Started POST "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 17:31:52 +0300
+
+AbstractController::ActionNotFound (The action 'create' could not be found for Api::V1::MoneyTransactionsController):
+  actionpack (4.0.1) lib/abstract_controller/base.rb:131:in `process'
+  actionpack (4.0.1) lib/abstract_controller/rendering.rb:44:in `process'
+  actionpack (4.0.1) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.0.1) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.0.1) lib/action_controller/metal.rb:231:in `block in action'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:80:in `call'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:48:in `call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:680:in `call'
+  ember-cli-rails (0.3.1) lib/ember-cli/middleware.rb:14:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:35:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.1) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.1) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.1) lib/active_record/migration.rb:369:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:373:in `_run__889492504921333667__call__callbacks'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (0.5ms)
+
+
+Started POST "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 17:33:10 +0300
+Processing by Api::V1::MoneyTransactionsController#create as JSON
+  Parameters: {"moneyTransaction"=>{"description"=>nil, "price"=>nil, "is_income"=>false}, "money_transaction"=>{}}
+Can't verify CSRF token authenticity
+Completed 422 Unprocessable Entity in 1ms
+
+ActionController::InvalidAuthenticityToken (ActionController::InvalidAuthenticityToken):
+  actionpack (4.0.1) lib/action_controller/metal/request_forgery_protection.rb:163:in `handle_unverified_request'
+  actionpack (4.0.1) lib/action_controller/metal/request_forgery_protection.rb:170:in `handle_unverified_request'
+  actionpack (4.0.1) lib/action_controller/metal/request_forgery_protection.rb:177:in `verify_authenticity_token'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:377:in `_run__2196392853971004119__process_action__callbacks'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.1) lib/abstract_controller/callbacks.rb:17:in `process_action'
+  actionpack (4.0.1) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+  activesupport (4.0.1) lib/active_support/notifications.rb:159:in `block in instrument'
+  activesupport (4.0.1) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.0.1) lib/active_support/notifications.rb:159:in `instrument'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.0.1) lib/action_controller/metal/params_wrapper.rb:245:in `process_action'
+  activerecord (4.0.1) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (4.0.1) lib/abstract_controller/base.rb:136:in `process'
+  actionpack (4.0.1) lib/abstract_controller/rendering.rb:44:in `process'
+  actionpack (4.0.1) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.0.1) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.0.1) lib/action_controller/metal.rb:231:in `block in action'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:80:in `call'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:48:in `call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:680:in `call'
+  ember-cli-rails (0.3.1) lib/ember-cli/middleware.rb:14:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:35:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.1) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.1) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.1) lib/active_record/migration.rb:369:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:373:in `_run__889492504921333667__call__callbacks'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.7ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.9ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 17:34:02 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (14.0ms)
+Completed 200 OK in 17ms (Views: 16.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 17:34:07 +0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 17:34:11 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 17:34:11 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 17:34:11 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 17:34:11 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 17:34:11 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 17:34:11 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 17:34:11 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 17:34:11 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 17:34:11 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 17:34:11 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 17:34:17 +0300
+
+
+Started POST "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 17:34:21 +0300
+Processing by Api::V1::MoneyTransactionsController#create as JSON
+  Parameters: {"moneyTransaction"=>{"description"=>nil, "price"=>nil, "is_income"=>false}, "money_transaction"=>{}}
+Can't verify CSRF token authenticity
+Completed 422 Unprocessable Entity in 1ms
+
+ActionController::InvalidAuthenticityToken (ActionController::InvalidAuthenticityToken):
+  actionpack (4.0.1) lib/action_controller/metal/request_forgery_protection.rb:163:in `handle_unverified_request'
+  actionpack (4.0.1) lib/action_controller/metal/request_forgery_protection.rb:170:in `handle_unverified_request'
+  actionpack (4.0.1) lib/action_controller/metal/request_forgery_protection.rb:177:in `verify_authenticity_token'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:377:in `_run__2196392853971004119__process_action__callbacks'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.1) lib/abstract_controller/callbacks.rb:17:in `process_action'
+  actionpack (4.0.1) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+  activesupport (4.0.1) lib/active_support/notifications.rb:159:in `block in instrument'
+  activesupport (4.0.1) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.0.1) lib/active_support/notifications.rb:159:in `instrument'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.0.1) lib/action_controller/metal/params_wrapper.rb:245:in `process_action'
+  activerecord (4.0.1) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (4.0.1) lib/abstract_controller/base.rb:136:in `process'
+  actionpack (4.0.1) lib/abstract_controller/rendering.rb:44:in `process'
+  actionpack (4.0.1) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.0.1) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.0.1) lib/action_controller/metal.rb:231:in `block in action'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:80:in `call'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:48:in `call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:680:in `call'
+  ember-cli-rails (0.3.1) lib/ember-cli/middleware.rb:14:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:35:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.1) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.1) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.1) lib/active_record/migration.rb:369:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:373:in `_run__889492504921333667__call__callbacks'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.5ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.0ms)
+
+
+Started POST "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 18:05:27 +0300
+Processing by Api::V1::MoneyTransactionsController#create as JSON
+  Parameters: {"moneyTransaction"=>{"description"=>nil, "price"=>nil, "is_income"=>false}, "money_transaction"=>{}}
+Can't verify CSRF token authenticity
+Completed 422 Unprocessable Entity in 0ms
+
+ActionController::InvalidAuthenticityToken (ActionController::InvalidAuthenticityToken):
+  actionpack (4.0.1) lib/action_controller/metal/request_forgery_protection.rb:163:in `handle_unverified_request'
+  actionpack (4.0.1) lib/action_controller/metal/request_forgery_protection.rb:170:in `handle_unverified_request'
+  actionpack (4.0.1) lib/action_controller/metal/request_forgery_protection.rb:177:in `verify_authenticity_token'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:377:in `_run__2196392853971004119__process_action__callbacks'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.1) lib/abstract_controller/callbacks.rb:17:in `process_action'
+  actionpack (4.0.1) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+  activesupport (4.0.1) lib/active_support/notifications.rb:159:in `block in instrument'
+  activesupport (4.0.1) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.0.1) lib/active_support/notifications.rb:159:in `instrument'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.0.1) lib/action_controller/metal/params_wrapper.rb:245:in `process_action'
+  activerecord (4.0.1) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (4.0.1) lib/abstract_controller/base.rb:136:in `process'
+  actionpack (4.0.1) lib/abstract_controller/rendering.rb:44:in `process'
+  actionpack (4.0.1) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.0.1) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.0.1) lib/action_controller/metal.rb:231:in `block in action'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:80:in `call'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:48:in `call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:680:in `call'
+  ember-cli-rails (0.3.1) lib/ember-cli/middleware.rb:14:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:35:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.1) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.1) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.1) lib/active_record/migration.rb:369:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:373:in `_run__889492504921333667__call__callbacks'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.6ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.8ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 18:05:45 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (23.5ms)
+Completed 200 OK in 28ms (Views: 27.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 18:05:50 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 18:05:55 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 18:05:55 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 18:05:56 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 18:05:56 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 18:05:56 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 18:05:56 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 18:05:56 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 18:05:56 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 18:05:56 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 18:05:56 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 18:06:01 +0300
+
+
+Started POST "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 18:06:17 +0300
+Processing by Api::V1::MoneyTransactionsController#create as JSON
+  Parameters: {"moneyTransaction"=>{"description"=>nil, "price"=>nil, "is_income"=>false}, "money_transaction"=>{}}
+Completed 500 Internal Server Error in 90757ms
+
+ActionView::MissingTemplate (Missing template api/v1/money_transactions/create, application/create with {:locale=>[:en], :formats=>[:json], :handlers=>[:erb, :builder, :raw, :ruby, :jbuilder, :coffee]}. Searched in:
+  * "/home/begin29/projects/homeRailsTransactions/api/app/views"
+):
+  actionpack (4.0.1) lib/action_view/path_set.rb:46:in `find'
+  actionpack (4.0.1) lib/action_view/lookup_context.rb:115:in `find'
+  actionpack (4.0.1) lib/action_view/renderer/abstract_renderer.rb:18:in `find_template'
+  actionpack (4.0.1) lib/action_view/renderer/template_renderer.rb:35:in `determine_template'
+  actionpack (4.0.1) lib/action_view/renderer/template_renderer.rb:8:in `render'
+  actionpack (4.0.1) lib/action_view/renderer/renderer.rb:42:in `render_template'
+  actionpack (4.0.1) lib/action_view/renderer/renderer.rb:23:in `render'
+  actionpack (4.0.1) lib/abstract_controller/rendering.rb:127:in `_render_template'
+  actionpack (4.0.1) lib/action_controller/metal/streaming.rb:219:in `_render_template'
+  actionpack (4.0.1) lib/abstract_controller/rendering.rb:120:in `render_to_body'
+  actionpack (4.0.1) lib/action_controller/metal/rendering.rb:33:in `render_to_body'
+  actionpack (4.0.1) lib/action_controller/metal/renderers.rb:26:in `render_to_body'
+  actionpack (4.0.1) lib/abstract_controller/rendering.rb:97:in `render'
+  actionpack (4.0.1) lib/action_controller/metal/rendering.rb:16:in `render'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:41:in `block (2 levels) in render'
+  activesupport (4.0.1) lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/benchmark.rb:303:in `realtime'
+  activesupport (4.0.1) lib/active_support/core_ext/benchmark.rb:12:in `ms'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:41:in `block in render'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:84:in `cleanup_view_runtime'
+  activerecord (4.0.1) lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:40:in `render'
+  actionpack (4.0.1) lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  actionpack (4.0.1) lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  actionpack (4.0.1) lib/abstract_controller/base.rb:189:in `process_action'
+  actionpack (4.0.1) lib/action_controller/metal/rendering.rb:10:in `process_action'
+  actionpack (4.0.1) lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:383:in `_run__2196392853971004119__process_action__callbacks'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.1) lib/abstract_controller/callbacks.rb:17:in `process_action'
+  actionpack (4.0.1) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+  activesupport (4.0.1) lib/active_support/notifications.rb:159:in `block in instrument'
+  activesupport (4.0.1) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.0.1) lib/active_support/notifications.rb:159:in `instrument'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.0.1) lib/action_controller/metal/params_wrapper.rb:245:in `process_action'
+  activerecord (4.0.1) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (4.0.1) lib/abstract_controller/base.rb:136:in `process'
+  actionpack (4.0.1) lib/abstract_controller/rendering.rb:44:in `process'
+  actionpack (4.0.1) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.0.1) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.0.1) lib/action_controller/metal.rb:231:in `block in action'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:80:in `call'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:48:in `call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:680:in `call'
+  ember-cli-rails (0.3.1) lib/ember-cli/middleware.rb:14:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:35:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.1) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.1) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.1) lib/active_record/migration.rb:369:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:373:in `_run__889492504921333667__call__callbacks'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/missing_template.erb within rescues/layout (0.5ms)
+
+
+Started POST "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 18:22:49 +0300
+
+SyntaxError (/home/begin29/projects/homeRailsTransactions/api/app/controllers/api/v1/money_transactions_controller.rb:20: syntax error, unexpected ':', expecting '}'
+      respond_with { success: true }
+                             ^
+/home/begin29/projects/homeRailsTransactions/api/app/controllers/api/v1/money_transactions_controller.rb:22: syntax error, unexpected ':', expecting '}'
+      respond_with { error: true }
+                           ^):
+  activesupport (4.0.1) lib/active_support/dependencies.rb:424:in `load'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:424:in `block in load_file'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:616:in `new_constants_in'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:423:in `load_file'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:324:in `require_or_load'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:463:in `load_missing_constant'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:184:in `const_missing'
+  activesupport (4.0.1) lib/active_support/inflector/methods.rb:228:in `const_get'
+  activesupport (4.0.1) lib/active_support/inflector/methods.rb:228:in `block in constantize'
+  activesupport (4.0.1) lib/active_support/inflector/methods.rb:224:in `each'
+  activesupport (4.0.1) lib/active_support/inflector/methods.rb:224:in `inject'
+  activesupport (4.0.1) lib/active_support/inflector/methods.rb:224:in `constantize'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:535:in `get'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:566:in `constantize'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:76:in `controller_reference'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:66:in `controller'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:44:in `call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:680:in `call'
+  ember-cli-rails (0.3.1) lib/ember-cli/middleware.rb:14:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:35:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.1) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.1) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.1) lib/active_record/migration.rb:369:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:373:in `_run__889492504921333667__call__callbacks'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.6ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (14.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 18:22:55 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (31.0ms)
+Completed 200 OK in 34ms (Views: 34.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 18:22:55 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 18:23:00 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 18:23:00 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 18:23:00 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 18:23:00 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 18:23:00 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 18:23:00 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 18:23:00 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 18:23:00 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 18:23:00 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 18:23:00 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 18:23:05 +0300
+
+
+Started POST "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 18:27:37 +0300
+
+SyntaxError (/home/begin29/projects/homeRailsTransactions/api/app/controllers/api/v1/money_transactions_controller.rb:20: syntax error, unexpected ':', expecting '}'
+      respond_with { success: true }
+                             ^
+/home/begin29/projects/homeRailsTransactions/api/app/controllers/api/v1/money_transactions_controller.rb:22: syntax error, unexpected ':', expecting '}'
+      respond_with { error: true }
+                           ^):
+  activesupport (4.0.1) lib/active_support/dependencies.rb:424:in `load'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:424:in `block in load_file'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:616:in `new_constants_in'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:423:in `load_file'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:324:in `require_or_load'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:463:in `load_missing_constant'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:184:in `const_missing'
+  activesupport (4.0.1) lib/active_support/inflector/methods.rb:228:in `const_get'
+  activesupport (4.0.1) lib/active_support/inflector/methods.rb:228:in `block in constantize'
+  activesupport (4.0.1) lib/active_support/inflector/methods.rb:224:in `each'
+  activesupport (4.0.1) lib/active_support/inflector/methods.rb:224:in `inject'
+  activesupport (4.0.1) lib/active_support/inflector/methods.rb:224:in `constantize'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:535:in `get'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:566:in `constantize'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:76:in `controller_reference'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:66:in `controller'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:44:in `call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:680:in `call'
+  ember-cli-rails (0.3.1) lib/ember-cli/middleware.rb:14:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:35:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.1) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.1) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.1) lib/active_record/migration.rb:369:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:373:in `_run__889492504921333667__call__callbacks'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.5ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 18:27:42 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (17.9ms)
+Completed 200 OK in 21ms (Views: 20.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 18:27:42 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 18:27:48 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 18:27:48 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 18:27:48 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 18:27:48 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 18:27:48 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 18:27:48 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 18:27:48 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 18:27:48 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 18:27:48 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 18:27:48 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 18:27:53 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 18:27:53 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 18:27:53 +0300
+
+
+Started POST "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 18:31:51 +0300
+
+SyntaxError (/home/begin29/projects/homeRailsTransactions/api/app/controllers/api/v1/money_transactions_controller.rb:20: syntax error, unexpected ':', expecting '}'
+      respond_with { success: true }
+                             ^
+/home/begin29/projects/homeRailsTransactions/api/app/controllers/api/v1/money_transactions_controller.rb:22: syntax error, unexpected ':', expecting '}'
+      respond_with { error: true }
+                           ^):
+  activesupport (4.0.1) lib/active_support/dependencies.rb:424:in `load'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:424:in `block in load_file'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:616:in `new_constants_in'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:423:in `load_file'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:324:in `require_or_load'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:463:in `load_missing_constant'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:184:in `const_missing'
+  activesupport (4.0.1) lib/active_support/inflector/methods.rb:228:in `const_get'
+  activesupport (4.0.1) lib/active_support/inflector/methods.rb:228:in `block in constantize'
+  activesupport (4.0.1) lib/active_support/inflector/methods.rb:224:in `each'
+  activesupport (4.0.1) lib/active_support/inflector/methods.rb:224:in `inject'
+  activesupport (4.0.1) lib/active_support/inflector/methods.rb:224:in `constantize'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:535:in `get'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:566:in `constantize'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:76:in `controller_reference'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:66:in `controller'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:44:in `call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:680:in `call'
+  ember-cli-rails (0.3.1) lib/ember-cli/middleware.rb:14:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:35:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.1) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.1) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.1) lib/active_record/migration.rb:369:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:373:in `_run__889492504921333667__call__callbacks'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.5ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.0ms)
+  [1m[36mMoneyTransaction Load (6.5ms)[0m  [1mSELECT "money_transactions".* FROM "money_transactions"[0m
+
+
+Started POST "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 18:33:33 +0300
+
+SyntaxError (/home/begin29/projects/homeRailsTransactions/api/app/controllers/api/v1/money_transactions_controller.rb:20: syntax error, unexpected ':', expecting '}'
+      respond_with { success: true }
+                             ^
+/home/begin29/projects/homeRailsTransactions/api/app/controllers/api/v1/money_transactions_controller.rb:22: syntax error, unexpected ':', expecting '}'
+      respond_with { error: true }
+                           ^):
+  activesupport (4.0.1) lib/active_support/dependencies.rb:424:in `load'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:424:in `block in load_file'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:616:in `new_constants_in'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:423:in `load_file'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:324:in `require_or_load'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:463:in `load_missing_constant'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:184:in `const_missing'
+  activesupport (4.0.1) lib/active_support/inflector/methods.rb:228:in `const_get'
+  activesupport (4.0.1) lib/active_support/inflector/methods.rb:228:in `block in constantize'
+  activesupport (4.0.1) lib/active_support/inflector/methods.rb:224:in `each'
+  activesupport (4.0.1) lib/active_support/inflector/methods.rb:224:in `inject'
+  activesupport (4.0.1) lib/active_support/inflector/methods.rb:224:in `constantize'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:535:in `get'
+  activesupport (4.0.1) lib/active_support/dependencies.rb:566:in `constantize'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:76:in `controller_reference'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:66:in `controller'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:44:in `call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:680:in `call'
+  ember-cli-rails (0.3.1) lib/ember-cli/middleware.rb:14:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:35:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.1) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.1) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.1) lib/active_record/migration.rb:369:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:373:in `_run__889492504921333667__call__callbacks'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /home/begin29/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.5ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.7ms)
+
+
+Started POST "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 18:33:57 +0300
+Processing by Api::V1::MoneyTransactionsController#create as JSON
+  Parameters: {"moneyTransaction"=>{"description"=>nil, "price"=>nil, "is_income"=>false}, "money_transaction"=>{}}
+Completed 400 Bad Request in 1ms
+
+ActionController::ParameterMissing (param not found: money_transaction):
+  app/controllers/api/v1/money_transactions_controller.rb:29:in `money_transaction_params'
+  app/controllers/api/v1/money_transactions_controller.rb:17:in `create'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.9ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (14.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 18:34:24 +0300
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (16.3ms)
+Completed 200 OK in 19ms (Views: 19.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2015-05-28 18:34:29 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 18:34:34 +0300
+
+
+Started GET "/assets/transactions.css?body=1" for 127.0.0.1 at 2015-05-28 18:34:34 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 18:34:34 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 18:34:34 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 18:34:34 +0300
+
+
+Started GET "/assets/frontend/vendor.css?body=1" for 127.0.0.1 at 2015-05-28 18:34:34 +0300
+
+
+Started GET "/assets/frontend/client.css?body=1" for 127.0.0.1 at 2015-05-28 18:34:34 +0300
+
+
+Started GET "/assets/frontend/vendor.js?body=1" for 127.0.0.1 at 2015-05-28 18:34:34 +0300
+
+
+Started GET "/assets/frontend/client.js?body=1" for 127.0.0.1 at 2015-05-28 18:34:34 +0300
+
+
+Started GET "/assets/frontend/vendor.map" for 127.0.0.1 at 2015-05-28 18:34:34 +0300
+
+
+Started GET "/assets/frontend/client.map" for 127.0.0.1 at 2015-05-28 18:34:39 +0300
+
+
+Started POST "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 18:34:50 +0300
+Processing by Api::V1::MoneyTransactionsController#create as JSON
+  Parameters: {"moneyTransaction"=>{"description"=>nil, "price"=>nil, "is_income"=>false}, "money_transaction"=>{}}
+Completed 400 Bad Request in 0ms
+
+ActionController::ParameterMissing (param not found: money_transaction):
+  app/controllers/api/v1/money_transactions_controller.rb:29:in `money_transaction_params'
+  app/controllers/api/v1/money_transactions_controller.rb:17:in `create'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.7ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.0ms)
+
+
+Started POST "/api/v1/money_transactions" for 127.0.0.1 at 2015-05-28 18:35:26 +0300
+Processing by Api::V1::MoneyTransactionsController#create as JSON
+  Parameters: {"moneyTransaction"=>{"description"=>nil, "price"=>nil, "is_income"=>false}, "money_transaction"=>{}}
+Completed 400 Bad Request in 23873ms
+
+ActionController::ParameterMissing (param not found: money_transaction):
+  app/controllers/api/v1/money_transactions_controller.rb:29:in `money_transaction_params'
+  app/controllers/api/v1/money_transactions_controller.rb:18:in `create'
+
+
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.6ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered /home/begin29/.rvm/gems/ruby-2.2.1/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.4ms)
