@@ -1,0 +1,10 @@
+<h1>Transactions...</h1>
+<div>
+  {{#link-to 'money_transactions.new'}}<button title="new">New</button>{{/link-to}}
+</div>
+
+{{#each money_transaction in model}}
+  <div {{bind-attr class="money_transaction.isIncome:income:outcome"}}>
+    {{money_transaction.description}} {{money_transaction.price}} {{#link-to 'money_transactions.edit' content }}<button title="edit">Edit</button>{{/link-to}}
+  </div>
+{{/each}}

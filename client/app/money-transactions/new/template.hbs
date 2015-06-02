@@ -1,0 +1,26 @@
+<h1>Transactions...</h1>
+{{!-- <div>
+  {{#link-to 'money_transactions.new'}}<button title="new">New</button>{{/link-to}}
+</div> --}}
+
+<h3>Create Transaction</h3>
+<div>
+  <form {{action "saveTransaction" on="submit"}} class="form-inline pull-right">
+    <div class="tools">
+      {{!-- <button class="icon-arrow-left blue fleft btn-mobile" {{action "closeTransactionWithTransition" target="view"}}>Back</button> --}}
+    </div>
+    <div class="line">
+      <label for="description">Description</label>
+      {{textarea value=money_transaction.description }}
+    </div>
+    <div class="line">
+      <label for="price">Price</label>
+      {{input value=money_transaction.price type="number" min="0"}}
+    </div>
+    <div class="line">
+      <label for="is_income">Income?</label>
+      {{input checked=money_transaction.is_income type="checkbox"}}
+    </div>
+    <button class="btn btn-primary" {{action "saveTransaction"}}>Add transaction</button>
+  </form>
+</div>
