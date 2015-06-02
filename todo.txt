@@ -1,8 +1,8 @@
 TODO homeRailsTransactions
 
 A=========
-  generate model/route
   ability add/remove/edit transactions
+    cant`s see params
 
 B=========
   add model Tag
@@ -10,3 +10,9 @@ B=========
 
 C=========
   add simple UI
+
+
+
+Done==========
+  show transactions. problem with rails API
+  generate model/route

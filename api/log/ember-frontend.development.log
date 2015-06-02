@@ -22068,3 +22068,879 @@ Slowest Trees (cumulative)                    | Total (avg)
 Concat: Vendor (1)                            | 1952ms              
 Babel (2)                                     | 284ms (142 ms)      
 
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...BuildingBuilding.Building..Building...
+adapters/application.js: line 3, col 13, '$' is not defined.
+adapters/application.js: line 7, col 12, 'Ember' is not defined.
+
+2 errors
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+BuildingBuilding...
+
+Build successful - 7234ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2480ms              
+Babel                                         | 649ms               
+Funnel: Filtered App                          | 450ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2480ms              
+TreeMerger (104)                              | 1598ms (15 ms)      
+Babel (2)                                     | 944ms (472 ms)      
+Funnel: Filtered App (1)                      | 450ms               
+Funnel (32)                                   | 361ms (11 ms)       
+
+A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+Error: A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+    at null.<anonymous> (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/index.js:84:23)
+    at EventEmitter.emit (events.js:95:17)
+    at null.<anonymous> (_stream_readable.js:746:14)
+    at EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    at emitReadable (_stream_readable.js:404:5)
+    at readableAddChunk (_stream_readable.js:165:9)
+    at Readable.push (_stream_readable.js:127:10)
+    at Transform.push (_stream_transform.js:140:32)
+    at JSONStream._transform (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/node_modules/json-stream/lib/json-stream.js:30:14)
+A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+Error: A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+    at null.<anonymous> (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/index.js:84:23)
+    at EventEmitter.emit (events.js:95:17)
+    at null.<anonymous> (_stream_readable.js:746:14)
+    at EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    at emitReadable (_stream_readable.js:404:5)
+    at readableAddChunk (_stream_readable.js:165:9)
+    at Readable.push (_stream_readable.js:127:10)
+    at Transform.push (_stream_transform.js:140:32)
+    at JSONStream._transform (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/node_modules/json-stream/lib/json-stream.js:30:14)
+A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+Error: A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+    at null.<anonymous> (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/index.js:84:23)
+    at EventEmitter.emit (events.js:95:17)
+    at null.<anonymous> (_stream_readable.js:746:14)
+    at EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    at emitReadable (_stream_readable.js:404:5)
+    at readableAddChunk (_stream_readable.js:165:9)
+    at Readable.push (_stream_readable.js:127:10)
+    at Transform.push (_stream_transform.js:140:32)
+    at JSONStream._transform (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/node_modules/json-stream/lib/json-stream.js:30:14)
+A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+Error: A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+    at null.<anonymous> (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/index.js:84:23)
+    at EventEmitter.emit (events.js:95:17)
+    at null.<anonymous> (_stream_readable.js:746:14)
+    at EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    at emitReadable (_stream_readable.js:404:5)
+    at readableAddChunk (_stream_readable.js:165:9)
+    at Readable.push (_stream_readable.js:127:10)
+    at Transform.push (_stream_transform.js:140:32)
+    at JSONStream._transform (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/node_modules/json-stream/lib/json-stream.js:30:14)
+A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+Error: A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+    at null.<anonymous> (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/index.js:84:23)
+    at EventEmitter.emit (events.js:95:17)
+    at null.<anonymous> (_stream_readable.js:746:14)
+    at EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    at emitReadable (_stream_readable.js:404:5)
+    at readableAddChunk (_stream_readable.js:165:9)
+    at Readable.push (_stream_readable.js:127:10)
+    at Transform.push (_stream_transform.js:140:32)
+    at JSONStream._transform (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/node_modules/json-stream/lib/json-stream.js:30:14)
+A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+Error: A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+    at null.<anonymous> (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/index.js:84:23)
+    at EventEmitter.emit (events.js:95:17)
+    at null.<anonymous> (_stream_readable.js:746:14)
+    at EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    at emitReadable (_stream_readable.js:404:5)
+    at readableAddChunk (_stream_readable.js:165:9)
+    at Readable.push (_stream_readable.js:127:10)
+    at Transform.push (_stream_transform.js:140:32)
+    at JSONStream._transform (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/node_modules/json-stream/lib/json-stream.js:30:14)
+A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+Error: A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+    at null.<anonymous> (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/index.js:84:23)
+    at EventEmitter.emit (events.js:95:17)
+    at null.<anonymous> (_stream_readable.js:746:14)
+    at EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    at emitReadable (_stream_readable.js:404:5)
+    at readableAddChunk (_stream_readable.js:165:9)
+    at Readable.push (_stream_readable.js:127:10)
+    at Transform.push (_stream_transform.js:140:32)
+    at JSONStream._transform (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/node_modules/json-stream/lib/json-stream.js:30:14)
+A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+Error: A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+    at null.<anonymous> (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/index.js:84:23)
+    at EventEmitter.emit (events.js:95:17)
+    at null.<anonymous> (_stream_readable.js:746:14)
+    at EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    at emitReadable (_stream_readable.js:404:5)
+    at readableAddChunk (_stream_readable.js:165:9)
+    at Readable.push (_stream_readable.js:127:10)
+    at Transform.push (_stream_transform.js:140:32)
+    at JSONStream._transform (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/node_modules/json-stream/lib/json-stream.js:30:14)
+A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+Error: A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+    at null.<anonymous> (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/index.js:84:23)
+    at EventEmitter.emit (events.js:95:17)
+    at null.<anonymous> (_stream_readable.js:746:14)
+    at EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    at emitReadable (_stream_readable.js:404:5)
+    at readableAddChunk (_stream_readable.js:165:9)
+    at Readable.push (_stream_readable.js:127:10)
+    at Transform.push (_stream_transform.js:140:32)
+    at JSONStream._transform (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/node_modules/json-stream/lib/json-stream.js:30:14)
+A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+Error: A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+    at null.<anonymous> (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/index.js:84:23)
+    at EventEmitter.emit (events.js:95:17)
+    at null.<anonymous> (_stream_readable.js:746:14)
+    at EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    at emitReadable (_stream_readable.js:404:5)
+    at readableAddChunk (_stream_readable.js:165:9)
+    at Readable.push (_stream_readable.js:127:10)
+    at Transform.push (_stream_transform.js:140:32)
+    at JSONStream._transform (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/node_modules/json-stream/lib/json-stream.js:30:14)
+A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+Error: A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+    at null.<anonymous> (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/index.js:84:23)
+    at EventEmitter.emit (events.js:95:17)
+    at null.<anonymous> (_stream_readable.js:746:14)
+    at EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    at emitReadable (_stream_readable.js:404:5)
+    at readableAddChunk (_stream_readable.js:165:9)
+    at Readable.push (_stream_readable.js:127:10)
+    at Transform.push (_stream_transform.js:140:32)
+    at JSONStream._transform (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/node_modules/json-stream/lib/json-stream.js:30:14)
+A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+Error: A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+    at null.<anonymous> (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/index.js:84:23)
+    at EventEmitter.emit (events.js:95:17)
+    at null.<anonymous> (_stream_readable.js:746:14)
+    at EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    at emitReadable (_stream_readable.js:404:5)
+    at readableAddChunk (_stream_readable.js:165:9)
+    at Readable.push (_stream_readable.js:127:10)
+    at Transform.push (_stream_transform.js:140:32)
+    at JSONStream._transform (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/node_modules/json-stream/lib/json-stream.js:30:14)
+A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+Error: A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+    at null.<anonymous> (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/index.js:84:23)
+    at EventEmitter.emit (events.js:95:17)
+    at null.<anonymous> (_stream_readable.js:746:14)
+    at EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    at emitReadable (_stream_readable.js:404:5)
+    at readableAddChunk (_stream_readable.js:165:9)
+    at Readable.push (_stream_readable.js:127:10)
+    at Transform.push (_stream_transform.js:140:32)
+    at JSONStream._transform (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/node_modules/json-stream/lib/json-stream.js:30:14)
+A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+Error: A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+    at null.<anonymous> (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/index.js:84:23)
+    at EventEmitter.emit (events.js:95:17)
+    at null.<anonymous> (_stream_readable.js:746:14)
+    at EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    at emitReadable (_stream_readable.js:404:5)
+    at readableAddChunk (_stream_readable.js:165:9)
+    at Readable.push (_stream_readable.js:127:10)
+    at Transform.push (_stream_transform.js:140:32)
+    at JSONStream._transform (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/node_modules/json-stream/lib/json-stream.js:30:14)
+A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+Error: A non-recoverable condition has triggered.  Watchman needs your help!
+The triggering condition was at timestamp=1432891668: inotify-add-watch(/home/begin29/projects/homeRailsTransactions/client/tmp/tree_merger-tmp_dest_dir-RaaiIIYG.tmp) -> The user limit on the total number of inotify watches was reached; increase the fs.inotify.max_user_watches sysctl
+All requests will continue to fail with this message until you resolve
+the underlying problem.  You will find more information on fixing this at
+https://facebook.github.io/watchman/docs/troubleshooting.html#poison-inotify-add-watch
+
+    at null.<anonymous> (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/index.js:84:23)
+    at EventEmitter.emit (events.js:95:17)
+    at null.<anonymous> (_stream_readable.js:746:14)
+    at EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    at emitReadable (_stream_readable.js:404:5)
+    at readableAddChunk (_stream_readable.js:165:9)
+    at Readable.push (_stream_readable.js:127:10)
+    at Transform.push (_stream_transform.js:140:32)
+    at JSONStream._transform (/home/begin29/projects/homeRailsTransactions/client/node_modules/ember-cli/node_modules/sane/node_modules/fb-watchman/node_modules/json-stream/lib/json-stream.js:30:14)
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+adapters/application.js: line 3, col 13, '$' is not defined.
+adapters/application.js: line 7, col 12, 'Ember' is not defined.
+
+2 errors
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building...Building...
+
+Build successful - 2788ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1895ms              
+Babel                                         | 282ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1895ms              
+Babel (2)                                     | 341ms (170 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+adapters/application.js: line 3, col 13, '$' is not defined.
+adapters/application.js: line 7, col 12, 'Ember' is not defined.
+
+2 errors
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building...Building...
+
+Build successful - 2987ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2048ms              
+Babel                                         | 272ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2048ms              
+Babel (2)                                     | 331ms (165 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+adapters/application.js: line 3, col 13, '$' is not defined.
+adapters/application.js: line 7, col 12, 'Ember' is not defined.
+
+2 errors
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building...Building...
+
+Build successful - 2855ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1929ms              
+Babel                                         | 259ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1929ms              
+Babel (2)                                     | 320ms (160 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+adapters/application.js: line 3, col 13, '$' is not defined.
+adapters/application.js: line 7, col 12, 'Ember' is not defined.
+
+2 errors
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building...Building...
+
+Build successful - 2789ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1917ms              
+Babel                                         | 264ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1917ms              
+Babel (2)                                     | 323ms (161 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+adapters/application.js: line 3, col 13, '$' is not defined.
+adapters/application.js: line 7, col 12, 'Ember' is not defined.
+
+2 errors
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building...Building...
+
+Build successful - 3236ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2172ms              
+Babel                                         | 303ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2172ms              
+Babel (2)                                     | 362ms (181 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+adapters/application.js: line 3, col 13, '$' is not defined.
+adapters/application.js: line 7, col 12, 'Ember' is not defined.
+
+2 errors
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building...Building...
+
+Build successful - 2767ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1863ms              
+Babel                                         | 281ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1863ms              
+Babel (2)                                     | 335ms (167 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+adapters/application.js: line 3, col 13, '$' is not defined.
+adapters/application.js: line 7, col 12, 'Ember' is not defined.
+
+2 errors
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building...Building...
+
+Build successful - 2889ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2072ms              
+Babel                                         | 242ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2072ms              
+Babel (2)                                     | 293ms (146 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..
+adapters/application.js: line 3, col 13, '$' is not defined.
+adapters/application.js: line 7, col 12, 'Ember' is not defined.
+
+2 errors
+
+routes/index.js: line 2, col 18, 'Ember' is not defined.
+
+1 error
+
+===== 2 JSHint Errors
+
+Building...Building...
+
+Build successful - 3163ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2095ms              
+Babel                                         | 296ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2095ms              
+Babel (2)                                     | 358ms (179 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...Building...
+
+Build successful - 2873ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1972ms              
+Babel                                         | 262ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1972ms              
+Babel (2)                                     | 321ms (160 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...Building...
+
+Build successful - 2798ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1992ms              
+Babel                                         | 255ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1992ms              
+Babel (2)                                     | 300ms (150 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...Building...
+
+Build successful - 2745ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1910ms              
+Babel                                         | 244ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1910ms              
+Babel (2)                                     | 301ms (150 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...Building...
+
+Build successful - 2878ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1973ms              
+Babel                                         | 280ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1973ms              
+Babel (2)                                     | 336ms (168 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...Building...
+
+Build successful - 2843ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1998ms              
+Babel                                         | 246ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1998ms              
+Babel (2)                                     | 300ms (150 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...Building...
+
+Build successful - 2803ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1924ms              
+Babel                                         | 265ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1924ms              
+Babel (2)                                     | 324ms (162 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...Building...
+
+Build successful - 2820ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1973ms              
+Babel                                         | 263ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1973ms              
+Babel (2)                                     | 324ms (162 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...Building...
+
+Build successful - 2794ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1978ms              
+Babel                                         | 236ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1978ms              
+Babel (2)                                     | 296ms (148 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...Building...
+
+Build successful - 2859ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2031ms              
+Babel                                         | 232ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2031ms              
+Babel (2)                                     | 289ms (144 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...Building...
+
+Build successful - 2767ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1920ms              
+Babel                                         | 243ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1920ms              
+Babel (2)                                     | 297ms (148 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...Building...
+
+Build successful - 2904ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2115ms              
+Babel                                         | 248ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2115ms              
+Babel (2)                                     | 301ms (150 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...Building...
+
+Build successful - 2810ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1879ms              
+Babel                                         | 241ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1879ms              
+Babel (2)                                     | 294ms (147 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...Building...
+
+Build successful - 2886ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1992ms              
+Babel                                         | 250ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1992ms              
+Babel (2)                                     | 307ms (153 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...Building...
+
+Build successful - 2778ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1960ms              
+Babel                                         | 231ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1960ms              
+Babel (2)                                     | 285ms (142 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...Building...
+
+Build successful - 2883ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1966ms              
+Babel                                         | 237ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1966ms              
+Babel (2)                                     | 289ms (144 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...Building...
+
+Build successful - 2946ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2017ms              
+Babel                                         | 264ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2017ms              
+Babel (2)                                     | 328ms (164 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...Building...
+
+Build successful - 2789ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 1925ms              
+Babel                                         | 250ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 1925ms              
+Babel (2)                                     | 315ms (157 ms)      
+
+Future versions of Ember CLI will not support v0.10.25. Please update to Node 0.12 or io.js.
+version: 0.2.5
+BuildingBuilding.Building..Building...Building...
+
+Build successful - 3324ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Concat: Vendor                                | 2073ms              
+CustomReplace                                 | 344ms               
+Babel                                         | 301ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Concat: Vendor (1)                            | 2073ms              
+Babel (2)                                     | 360ms (180 ms)      
+CustomReplace (3)                             | 347ms (115 ms)      
+
