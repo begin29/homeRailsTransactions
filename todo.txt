@@ -2,8 +2,7 @@ TODO homeRailsTransactions
 
 A=========
   ability add/remove/edit transactions
-    cant`s see params
-
+    empty element
 B=========
   add model Tag
   CRUD for Tag
@@ -16,3 +15,5 @@ C=========
 Done==========
   show transactions. problem with rails API
   generate model/route
+  cant`s see params
+  right format for api

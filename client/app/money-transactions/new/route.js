@@ -1,10 +1,6 @@
 import Ember from 'ember';
 
 export default Ember.Route.extend({
-  model: function() {
-    console.log('enter inside model');
-    return this.store.createRecord('money_transaction');
-  },
   actions: {
 
     // saveTransaction: function() {

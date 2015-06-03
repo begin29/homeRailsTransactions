@@ -7,9 +7,9 @@ export default Ember.Controller.extend({
 
   actions: {
     saveTransaction: function() {
-      debugger
       this.get('money_transaction').save().then(function() {
-        console.log("save successful");
+        // it works only once
+        // this.set('money_transaction', '');
         this.transitionToRoute('money_transactions');
       }.bind(this), function(error) {
         console.log(error);
@@ -17,7 +17,7 @@ export default Ember.Controller.extend({
     },
 
     cancel: function() {
-      this.transitionToRoute('rcruds');
+      this.transitionToRoute('money_transactions');
     }
   }
 });
