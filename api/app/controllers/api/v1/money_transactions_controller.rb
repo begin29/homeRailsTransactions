@@ -14,12 +14,11 @@ class Api::V1::MoneyTransactionsController < ApplicationController
   end
 
   def create
-    binding.pry
     @money_transaction = MoneyTransaction.new(money_transaction_params)
     if @money_transaction.save
-      # respond_with { success: true }
+      render json: @money_transaction
     else
-      # respond_with { error: true }
+      render nothing: true, status: :bad_request
     end
   end
 
