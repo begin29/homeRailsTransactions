@@ -4,9 +4,8 @@
 </div>
 
 {{#each money_transaction in model}}
-  {{#if money_transaction }}
-    <div {{bind-attr class="money_transaction.isIncome:income:outcome"}}>
-      {{money_transaction.description}} {{money_transaction.price}} {{#link-to 'money_transactions.edit' content }}<button title="edit">Edit</button>{{/link-to}}
-    </div>
-  {{/if}}
+  <div {{bind-attr class="money_transaction.isIncome:income:outcome"}}>
+    {{money_transaction.description}} {{money_transaction.price}}
+    {{#link-to 'money_transactions.edit' money_transaction }}<button title="edit">Edit</button>{{/link-to}}
+  </div>
 {{/each}}

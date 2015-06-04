@@ -18,6 +18,17 @@ class Api::V1::MoneyTransactionsController < ApplicationController
     if @money_transaction.save
       render json: @money_transaction
     else
+      # TODO: need to handle this
+      render nothing: true, status: :bad_request
+    end
+  end
+
+  def update
+    @money_transaction = MoneyTransaction.find(params[:id])
+    if @money_transaction.update_attributes(money_transaction_params)
+      render json: @money_transaction
+    else
+      # TODO: need to handle this
       render nothing: true, status: :bad_request
     end
   end

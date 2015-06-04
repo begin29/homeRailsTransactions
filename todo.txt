@@ -2,8 +2,14 @@ TODO homeRailsTransactions
 
 A=========
   ability add/remove/edit transactions
-    empty element
+    edit transaction
+    delete
+    show "add form" on the same page
+    handle validation errors
+
+
 B=========
+  resolve deprecations
   add model Tag
   CRUD for Tag
 
@@ -13,7 +19,5 @@ C=========
 
 
 Done==========
-  show transactions. problem with rails API
-  generate model/route
-  cant`s see params
-  right format for api
+  clear form after add some one
+  empty element
