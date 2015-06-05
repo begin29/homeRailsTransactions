@@ -7,5 +7,6 @@
   <div {{bind-attr class="money_transaction.isIncome:income:outcome"}}>
     {{money_transaction.description}} {{money_transaction.price}}
     {{#link-to 'money_transactions.edit' money_transaction }}<button title="edit">Edit</button>{{/link-to}}
+    <button {{action "deleteTransaction" money_transaction}} title="delete">X</button>
   </div>
 {{/each}}

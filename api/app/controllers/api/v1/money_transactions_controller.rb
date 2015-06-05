@@ -18,8 +18,7 @@ class Api::V1::MoneyTransactionsController < ApplicationController
     if @money_transaction.save
       render json: @money_transaction
     else
-      # TODO: need to handle this
-      render nothing: true, status: :bad_request
+      render json: {errors: @money_transaction.errors}, status: 422
     end
   end
 
@@ -28,14 +27,23 @@ class Api::V1::MoneyTransactionsController < ApplicationController
     if @money_transaction.update_attributes(money_transaction_params)
       render json: @money_transaction
     else
-      # TODO: need to handle this
-      render nothing: true, status: :bad_request
+      render json: {errors: @money_transaction.errors}, status: 422
+    end
+  end
+
+  def destroy
+    @money_transaction = MoneyTransaction.find(params[:id])
+
+    if @money_transaction.destroy
+      render json: {success: true}
+    else
+      render json: {errors: @money_transaction.errors}, status: 422
     end
   end
 
   private
 
-  def money_transaction_params
-    params.require(:money_transaction).permit(:is_income, :price, :description)
-  end
+    def money_transaction_params
+      params.require(:money_transaction).permit(:is_income, :price, :description)
+    end
 end

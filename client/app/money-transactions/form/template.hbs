@@ -3,10 +3,20 @@
   <div class="line">
     <label for="description">Description</label>
     {{textarea value=model.description }}
+    {{#each model.errors.description as |error|}}
+      <div class="error">
+        {{error.message}}
+      </div>
+    {{/each}}
   </div>
   <div class="line">
     <label for="price">Price</label>
     {{input value=model.price type="number" min="0"}}
+    {{#each model.errors.price as |error|}}
+      <div class="error">
+        {{error.message}}
+      </div>
+    {{/each}}
   </div>
   <div class="line">
     <label for="is_income">Income?</label>

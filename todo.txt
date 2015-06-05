@@ -1,11 +1,8 @@
 TODO homeRailsTransactions
 
 A=========
-  ability add/remove/edit transactions
-    edit transaction
-    delete
+  ability add/remove/edit transactions    
     show "add form" on the same page
-    handle validation errors
 
 
 B=========
@@ -17,7 +14,9 @@ C=========
   add simple UI
 
 
-
 Done==========
+	handle validation errors
+	delete
+  edit transaction
   clear form after add some one
   empty element
