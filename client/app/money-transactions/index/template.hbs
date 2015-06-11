@@ -1,12 +1,17 @@
 <h1>Transactions...</h1>
 <div>
-  {{#link-to 'money_transactions.new'}}<button title="new">New</button>{{/link-to}}
+  <button {{action "openNewTransaction" "money-transactions/new"}}>New</button>
 </div>
 
-{{#each money_transaction in model}}
-  <div {{bind-attr class="money_transaction.isIncome:income:outcome"}}>
+{{#each money_transaction in nonNewModels}}
+  <div {{bind-attr class="money_transaction.is_income:income:outcome"}}>
     {{money_transaction.description}} {{money_transaction.price}}
-    {{#link-to 'money_transactions.edit' money_transaction }}<button title="edit">Edit</button>{{/link-to}}
+    <button {{action "editTransaction" money_transaction "money-transactions/edit"}} title="edit">Edit</button>
     <button {{action "deleteTransaction" money_transaction}} title="delete">X</button>
   </div>
 {{/each}}
+
+
+<div class="new-transaction">
+  {{outlet "newTransaction"}}
+</div>

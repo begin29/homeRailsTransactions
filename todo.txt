@@ -1,22 +1,19 @@
-TODO homeRailsTransactions
+============TODO homeRailsTransactions
 
 A=========
-  ability add/remove/edit transactions    
-    show "add form" on the same page
-
+  add few view effects
+  add model Tag
+  resolve deprecations
 
 B=========
-  resolve deprecations
-  add model Tag
   CRUD for Tag
+  slow application
 
 C=========
   add simple UI
 
 
 Done==========
-	handle validation errors
-	delete
-  edit transaction
-  clear form after add some one
-  empty element
+  ability add/remove/edit transactions
+    show "add/edit form" on the same page
+    client validation
