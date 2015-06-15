@@ -8,6 +8,7 @@
     {{money_transaction.description}} {{money_transaction.price}}
     <button {{action "editTransaction" money_transaction "money-transactions/edit"}} title="edit">Edit</button>
     <button {{action "deleteTransaction" money_transaction}} title="delete">X</button>
+    <div>Tags: {{ money_transaction.listOfTags }} </div>
   </div>
 {{/each}}
 

@@ -1,6 +1,5 @@
 import Ember from 'ember';
 import SaveTransactionMixin from "client/mixins/save-transaction";
-import EmberValidations from 'ember-validations';
 
 export default Ember.ObjectController.extend(SaveTransactionMixin, {
   actions: {

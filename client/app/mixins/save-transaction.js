@@ -1,7 +1,5 @@
 import Ember from 'ember';
 import EmberValidations from 'ember-validations';
-import MoneyTransaction from 'client/models/money-transaction'
-
 
 var SaveTransactionMixin = Ember.Mixin.create(EmberValidations.Mixin, {
   validations: {

@@ -2,7 +2,10 @@ import Ember from 'ember';
 
 export default Ember.Route.extend({
   model: function() {
-    return this.store.find('money_transaction');
+    return Ember.RSVP.hash({
+      tags: this.get('store').find('tag'),
+      money_transactions: this.store.find('money_transaction')
+    });
   },
 
   actions: {

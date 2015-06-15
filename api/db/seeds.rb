@@ -15,3 +15,8 @@ end
 {salary: 1000, lotery:25, found: 10}.each do |k,v|
   MoneyTransaction.create(description: k, price: v, is_income: true)
 end
+
+# tags
+%w{education home girls}.each do |category|
+  Tag.create(name: category)
+end

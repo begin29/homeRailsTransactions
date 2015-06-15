@@ -1,5 +1,5 @@
 import Ember from 'ember';
 
 export default Ember.ObjectController.extend({
-  nonNewModels: Ember.computed.filterBy('model', 'isNew', false)
+  nonNewModels: Ember.computed.filterBy('money_transactions', 'isNew', false)
 });
