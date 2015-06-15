@@ -1,7 +1,7 @@
 ============TODO homeRailsTransactions
 
 A=========
-  add model Tag
+  rails serializer bug
   CRUD Tag for Transactions
   search based on tags, description
 
@@ -9,6 +9,7 @@ B=========
   fix slow response (bilding)
 
 C=========
+  add model Tag
   resolve deprecations
   add few view effects
   add simple UI
