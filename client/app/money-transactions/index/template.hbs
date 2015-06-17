@@ -1,4 +1,5 @@
 <h1>Transactions...</h1>
+
 <div>
   <button {{action "openNewTransaction" "money-transactions/new"}}>New</button>
 </div>
@@ -8,11 +9,22 @@
     {{money_transaction.description}} {{money_transaction.price}}
     <button {{action "editTransaction" money_transaction "money-transactions/edit"}} title="edit">Edit</button>
     <button {{action "deleteTransaction" money_transaction}} title="delete">X</button>
-    {{#if tagView.isEditing}}
-      <div>Tags: {{ money_transaction.listOfTags }} </div>
-    {{else}}
-      <div>Tags: {{view tagView}} </div>
-    {{/if}}
+    <div>
+      Tags:
+        {{#each tag in money_transaction.tags }}
+          {{#if tag.isEdited }}
+            {{input value=tag.name}}
+            <button {{action "updateCurrentTag" tag}}>Save</button>
+          {{else}}
+            <span {{action "editTag" tag }}>{{tag.name}}</span>
+          {{/if}}
+        {{/each}}
+        <button {{action "addTag" money_transaction}}>Add Tag</button>
+        {{#if money_transaction.isAddTag }}
+          {{input value=tag.name}}
+          <button {{action "saveNewTag" tag money_transaction}}>Save</button>
+        {{/if}}
+    </div>
   </div>
 {{/each}}
 

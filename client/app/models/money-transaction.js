@@ -6,7 +6,4 @@ export default DS.Model.extend({
   is_income: DS.attr('boolean'),
   tags: DS.hasMany('tag'),
 
-  listOfTags: function(){
-    return this.get('tags').getEach('name');
-  }.property('tags.[]')
 });

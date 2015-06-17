@@ -20,7 +20,7 @@ class Api::V1::TagsController < ApplicationController
 
   def update
     @tag = Tag.find(params[:id])
-    if @tag.update_attributes(money_transaction_params)
+    if @tag.update_attributes(tag_params)
       render json: @tag
     else
       render json: {errors: @tag.errors}, status: 422
@@ -40,6 +40,6 @@ class Api::V1::TagsController < ApplicationController
   private
 
     def tag_params
-      params.require(:tag).permit(:name)
+      params.require(:tag).permit(:name, money_transaction_ids: [])
     end
 end

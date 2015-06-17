@@ -2,7 +2,7 @@ class Api::V1::MoneyTransactionsController < ApplicationController
   respond_to :json
 
   def index
-    respond_with MoneyTransaction.all
+    respond_with MoneyTransaction.includes(:tags).all
   end
 
   def show

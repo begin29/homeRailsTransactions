@@ -28,9 +28,9 @@ var SaveTransactionMixin = Ember.Mixin.create(EmberValidations.Mixin, {
         });
     }).catch(function() {
       $.each( Ember.keys(myModel.toJSON()), function( index, value ) {
-        myModel.get('errors').add( value, _this.get('errors')[value] )
+        myModel.get('errors').add( value, _this.get('errors')[value] );
       });
-      _this.get('errors')
+      _this.get('errors');
     }).finally(function() {
         // all validations complete
       // regardless of isValid state
