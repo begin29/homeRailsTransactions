@@ -44,6 +44,6 @@ class Api::V1::MoneyTransactionsController < ApplicationController
   private
 
     def money_transaction_params
-      params.require(:money_transaction).permit(:is_income, :price, :description)
+      params.require(:money_transaction).permit(:is_income, :price, :description, tag_ids:[])
     end
 end

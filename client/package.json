@@ -34,6 +34,7 @@
     "ember-disable-proxy-controllers": "^0.7.0",
     "ember-export-application-global": "^1.0.2",
     "ember-cli-rails-addon": "0.0.11",
-    "ember-validations": "2.0.0-alpha.3"
+    "ember-validations": "2.0.0-alpha.3",
+    "ember-cli-auto-complete": "0.1.3"
   }
 }

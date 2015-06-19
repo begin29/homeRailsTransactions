@@ -4,7 +4,7 @@
   <button {{action "openNewTransaction" "money-transactions/new"}}>New</button>
 </div>
 
-{{#each money_transaction in nonNewModels}}
+{{#each money_transaction in nonNewMoneyModels}}
   <div {{bind-attr class="money_transaction.is_income:income:outcome"}}>
     {{money_transaction.description}} {{money_transaction.price}}
     <button {{action "editTransaction" money_transaction "money-transactions/edit"}} title="edit">Edit</button>
@@ -12,17 +12,26 @@
     <div>
       Tags:
         {{#each tag in money_transaction.tags }}
-          {{#if tag.isEdited }}
-            {{input value=tag.name}}
-            <button {{action "updateCurrentTag" tag}}>Save</button>
-          {{else}}
-            <span {{action "editTag" tag }}>{{tag.name}}</span>
-          {{/if}}
+          {{#unless tag.isNew }}
+            {{#if tag.isEdited }}
+              {{input value=tag.name}}
+              <button {{action "updateCurrentTag" tag}}>Save</button>
+            {{else}}
+              <span>
+                {{outlet "tagContextMenu"}}
+                {{#span-tag editedTag="editTag" showedContextMenu="showContextMenu" curTag=tag }}
+                  {{tag.name}}
+                {{/span-tag}}
+              </span>
+            {{/if}}
+          {{/unless}}
         {{/each}}
         <button {{action "addTag" money_transaction}}>Add Tag</button>
         {{#if money_transaction.isAddTag }}
-          {{input value=tag.name}}
-          <button {{action "saveNewTag" tag money_transaction}}>Save</button>
+          {{#tag-auto-complete options=codes selectedValue=newTag.name placeHolderText="Find a thing" inputClass="some-class" as |result|}}
+            <p>{{result.name}}</p>
+          {{/tag-auto-complete}}
+          <button {{action "saveNewTag" newTag money_transaction}}>Save</button>
         {{/if}}
     </div>
   </div>
